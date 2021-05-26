@@ -17,7 +17,7 @@ https://github.com/jostroOS/amogOS/releases/latest
 - Mostly grey colour palette
 - Custom neofetch icon
 - piKiss and pi-apps preinstalled so you can install some games and also A M O N G U S
-- No among us preinstalled sadly 😢
+- No among us preinstalled sadly 😢 (but a web remake of among us is available)
 
 (Note if you want to run among us, https://www.youtube.com/watch?v=ZJ74jKixHa8&
  will teach you how. Steam is also installable from pi-apps, so you can also download it there.)
@@ -26,4 +26,4 @@ https://github.com/jostroOS/amogOS/releases/latest
 
 - Default password is "raspberry" and username is "pi"
 
-- Overscan and some other stuff is enabled by default, will be removed in v1.1.0!
+- Overscan and some other stuff is enabled by default, will be removed in v1.1.0! (who knows when this will release...)
