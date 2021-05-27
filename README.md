@@ -10,6 +10,9 @@ This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/ci
 
 https://github.com/jostroOS/amogOS/releases/latest
 
+### Get support on Discord:
+https://discord.gg/jr469efBZM
+
 ## Features
 
 - Sus
