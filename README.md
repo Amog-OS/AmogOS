@@ -29,4 +29,5 @@ https://discord.gg/jr469efBZM
 
 ## Notes
 
+- This is meant for RPI 3 and 4. If you would like to run it on a x86 system, you can do so via qemu. Download https://drive.google.com/file/d/1wgkJYwNV7jqxNFW_uRPPZ3JKvd87mVPE/view?usp=sharing and read the instructions to find how to replace the twister os image with amogOS.
 - Default password is "raspberry" and username is "pi"
