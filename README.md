@@ -30,5 +30,3 @@ https://discord.gg/jr469efBZM
 ## Notes
 
 - Default password is "raspberry" and username is "pi"
-
-- Overscan and some other stuff is enabled by default, will be removed in v1.1.0!
