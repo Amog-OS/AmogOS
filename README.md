@@ -23,6 +23,7 @@ https://discord.gg/jr469efBZM
 - Custom neofetch icon
 - Wine + box86 preinstalled for x86 windows emulation
 - piKiss and pi-apps preinstalled so you can install some games and also A M O N G U S
+- (Among Us will run at ~5 fps on multiplayer play. It is a very crappy framarate, but for running a game never intended to run on on ARM linux running on a CPU the size of a thumb, it's decent.)
 
 ## Notes
 
