@@ -21,14 +21,11 @@ https://discord.gg/jr469efBZM
 - Custom wallpaper and start menu icon
 - Mostly grey colour palette
 - Custom neofetch icon
-- - Wine + box86 preinstalled for x86 windows emulation
+- Wine + box86 preinstalled for x86 windows emulation
 - piKiss and pi-apps preinstalled so you can install some games and also A M O N G U S
-
-(Note if you want to run among us, https://www.youtube.com/watch?v=ZJ74jKixHa8&
- will teach you how. Steam is also installable from pi-apps, so you can also download it there.)
 
 ## Notes
 
 - You can use https://github.com/Botspot/vdesktop to test out the OS via a native VM on a RPI OS install.
 - This is meant for RPI 3 and 4. If you would like to run it on a x86 system, you can do so via qemu. Download https://drive.google.com/file/d/1wgkJYwNV7jqxNFW_uRPPZ3JKvd87mVPE/view?usp=sharing and read the instructions to find how to replace the twister os image with amogOS.
-- Default password is "raspberry" and username is "pi"
+- Default username is "pi" and password is "raspberry"
