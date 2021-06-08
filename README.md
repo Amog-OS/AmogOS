@@ -27,7 +27,7 @@ https://discord.gg/jr469efBZM
 
 ## Notes
 
-- You can use https://github.com/Botspot/vdesktop to test out the OS in a container without any lag.
+- You can use https://github.com/Botspot/vdesktop to test out the OS in a container without any lag on a arm host
 - This is meant for RPI 3 and 4. If you would like to run it on a x86 system, you can do so via qemu. Download https://drive.google.com/file/d/1wgkJYwNV7jqxNFW_uRPPZ3JKvd87mVPE/view?usp=sharing and read the instructions to find how to replace the twister os image with amogOS.
 - Default username is "pi" and password is "raspberry"
 - By default, a 512mb GPU memory is set. This is to make 256mb of memory available to Among Us so it doesn't go bonkers with more lag. Feel free to change it if you are experiencing problems or you don't plan on playing among us.
