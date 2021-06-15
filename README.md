@@ -23,9 +23,9 @@ https://discord.gg/k4d24VaAJN
 - Custom wallpaper and start menu icon
 - Mostly grey colour palette
 - Custom neofetch icon
-- Wine + box86 preinstalled for x86 windows emulation
+- Wine + box86 preinstalled for x86 windows translation
 - piKiss and pi-apps preinstalled so you can install some games and also A M O N G U S
-(Among Us will run at ~5 fps on multiplayer play. It's a really crap framerate, but for a game never intended to run on a CPU the size of a thumb with 2 layers of syscall translation, it's decent. A small resolution is needed for the game to run without insane lag.)
+(Among Us will run at ~5 fps on multiplayer play. It's a really crap framerate, but for a game never intended to run on a CPU the size of a thumb with 2 layers of syscall translation (x86 windows -> x86 linux -> arm linux), it's decent. A small resolution is needed for the game to run without insane lag.)
 
 ## Notes
 
