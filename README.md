@@ -8,7 +8,8 @@ This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/ci
 
 Initially made by Moon1789#6969, RPiNews#0816 and the folks here at Jostro OS
 
-EDIT: AHHH Mutahar covered the OS!!!!! I am beyond words that he made a video on this crappy OS. This OS was inspiried by other similiar mods people have made (credit above). I'm just gonna sneak in my youtube channel here to capitalize on the fame :) I cover Raspberry Pi-related content: https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw
+EDIT: AHHH Mutahar covered the OS!!!!! I am beyond words that he made a video on this crappy OS. This OS was inspiried by other similiar mods people have made (credit above). I'm just gonna sneak in my youtube channel here to capitalize on the fame :) I cover Raspberry Pi-related content: pi news : https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw
+moon1789 : https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA 
 
 ## Download:
 (Please please please read the notes section below, use vdesktop or QEMU to boot the OS i beg you not to flash it directly to your pi because it wont boot flashed for some reason and i dont know why oh god help me ahhhhhhhhhhhhhhhhhhhh)
