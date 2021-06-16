@@ -6,8 +6,6 @@ Among Us-inspired OS for the Raspberry Pi.
 
 This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/ (and also yoinks the icon and wallpaper from it).
 
-Initially made by Moon1789#6969, RPiNews#0816 and the folks here at Jostro OS
-
 EDIT: AHHH Mutahar covered the OS!!!!! I am beyond words that he made a video on this crappy OS. This OS was inspiried by other similiar mods people have made (credit above). I'm just gonna sneak in my youtube channel here to capitalize on the fame :) I cover Raspberry Pi-related content: pi news : https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw
 moon1789 : https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA 
 
@@ -35,3 +33,8 @@ https://discord.gg/k4d24VaAJN
 - Default username is "pi" and password is "raspberry"
 - By default, a 512mb GPU memory is set. This is to make 256mb of memory available to Among Us so it doesn't go bonkers with more lag. Feel free to change it if you are experiencing problems or you don't plan on playing Among Us.
 - amogOS is not a custom OS, it's just riced RPi OS. It doesn't have any custom source code or anything.
+
+# Credits
+- Main dev and founder: Moon1789#6969 (https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA)
+- Co-dev: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw)
+- Thanks to the jostroOS dev team for letting us use their GH org and website to host downloads!
