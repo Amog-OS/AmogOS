@@ -34,3 +34,4 @@ https://discord.gg/k4d24VaAJN
 - This is meant for RPI 3 and 4. If you would like to run it on a x86 system, you can do so via qemu. Download https://drive.google.com/file/d/1wgkJYwNV7jqxNFW_uRPPZ3JKvd87mVPE/view?usp=sharing and read the instructions inside the zip to find how to replace the twister os image with amogOS. Please use v1.0.0 if you are using QEMU as newer versions are broken on QEMU.
 - Default username is "pi" and password is "raspberry"
 - By default, a 512mb GPU memory is set. This is to make 256mb of memory available to Among Us so it doesn't go bonkers with more lag. Feel free to change it if you are experiencing problems or you don't plan on playing among us.
+- amogOS is not a custom OS, it's just riced RPi OS. It doesn't have any custom source code or anything.
