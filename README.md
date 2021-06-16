@@ -4,7 +4,7 @@ Among Us-inspired OS for the Raspberry Pi.
 ![image](https://user-images.githubusercontent.com/44128563/119536694-98920980-bd46-11eb-950e-425475bb90ac.png)
 
 
-This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/ (and also yoinks the icon and wallpaper from it), 
+This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/ (and also yoinks the icon and wallpaper from it).
 
 Initially made by Moon1789#6969, RPiNews#0816 and the folks here at Jostro OS
 
@@ -30,8 +30,8 @@ https://discord.gg/k4d24VaAJN
 
 ## Notes
 
-- You can use https://github.com/Botspot/vdesktop to test out the OS in a container without any lag on a arm host.
-- This is meant for RPI 3 and 4. If you would like to run it on a x86 system, you can do so via qemu. Download https://drive.google.com/file/d/1wgkJYwNV7jqxNFW_uRPPZ3JKvd87mVPE/view?usp=sharing and read the instructions inside the zip to find how to replace the twister os image with amogOS. Please use v1.0.0 if you are using QEMU as newer versions are broken on QEMU.
+- You can use [vdesktop](https://github.com/Botspot/vdesktop) to test out the OS in a container without any lag on an ARM host.
+- This is meant for RPI 3 and 4. If you would like to run it on a x86 system, you can do so via QEMU. Download it [here](https://drive.google.com/file/d/1wgkJYwNV7jqxNFW_uRPPZ3JKvd87mVPE/view?usp=sharing) and read the instructions inside the zip to find how to replace the Twister OS image with amogOS. Please use v1.0.0 if you are using QEMU as newer versions are broken on QEMU.
 - Default username is "pi" and password is "raspberry"
-- By default, a 512mb GPU memory is set. This is to make 256mb of memory available to Among Us so it doesn't go bonkers with more lag. Feel free to change it if you are experiencing problems or you don't plan on playing among us.
+- By default, a 512mb GPU memory is set. This is to make 256mb of memory available to Among Us so it doesn't go bonkers with more lag. Feel free to change it if you are experiencing problems or you don't plan on playing Among Us.
 - amogOS is not a custom OS, it's just riced RPi OS. It doesn't have any custom source code or anything.
