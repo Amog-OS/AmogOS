@@ -35,6 +35,6 @@ https://discord.gg/k4d24VaAJN
 - amogOS is not a custom OS, it's just riced RPi OS. It doesn't have any custom source code or anything.
 
 # Credits
-- Main dev and founder: Moon1789#6969 (https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA)
-- Co-dev: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw)
+- Main dev and founder: Moon1789#6969 (https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on amogOS related content and call me sussy imposter :p)
+- Co-dev: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) ()
 - Thanks to the jostroOS dev team for letting us use their GH org and website to host downloads!
