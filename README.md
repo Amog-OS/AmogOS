@@ -6,7 +6,8 @@ Among Us-inspired OS for the Raspberry Pi.
 
 This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/ (and also yoinks the icon and wallpaper from it).
 
-EDIT: AHHH Mutahar covered the OS!!!!! I am beyond words that he made a video on this crappy OS. This OS was inspiried by other similiar mods people have made (credit above). I'm just gonna sneak in my youtube channel here to capitalize on the fame :) I cover Raspberry Pi-related content: pi news : https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw
+EDIT: AHHH Mutahar covered the OS!!!!! I am beyond words that he made a video on this crappy OS. This OS was inspiried by other similiar mods people have made (credit above). I'm just gonna sneak in my youtube channel here to capitalize on the fame :) I cover Raspberry Pi-related content:  
+pi news : https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw  
 moon1789 : https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA 
 
 ## Download:
