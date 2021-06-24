@@ -5,8 +5,9 @@ Among Us-inspired OS ඞ.
 
 This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/ (and also yoinks the icon and wallpaper from it).
 
-EDIT: AHHH Mutahar covered the OS!!!!! I am beyond words that he made a video on this crappy OS. This OS was inspiried by other similiar mods people have made (credit above). I'm just gonna sneak in my youtube channel here to capitalize on the fame :) I cover Raspberry Pi-related content:  
-pi news : https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw  
+EDIT: AHHH Mutahar covered the OS!!!!! I am beyond words that he made a video on this sussy OS. This OS was inspiried by other similiar mods people have made (credit above). I'm just gonna sneak in my youtube channel here to capitalize on the fame :) I cover Raspberry Pi-related content:  
+pi news : https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw
+also link to moon, the head dev of the project
 moon1789 : https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA 
 
 ## Download:
@@ -23,15 +24,15 @@ https://discord.gg/k4d24VaAJN
 - Custom neofetch logo
 
 ### RPI only features, not present on x86 build
-- Wine + box86 preinstalled for x86 windows translation
+- Wine + box86 preinstalled for x86 windows syscall translation
 - piKiss and pi-apps preinstalled so you can install some games and also A M O N G U S
 (Among Us will run at ~5 fps on multiplayer play. It's a really crap framerate, but for a game never intended to run on a CPU the size of a thumb with 2 layers of syscall translation (x86 windows -> x86 linux -> arm linux), it's decent. A small resolution is needed for the game to run without insane lag.)
 
 ## Notes
-- (RPI version only) You can use [vdesktop](https://github.com/Botspot/vdesktop) to test out the OS in a container without any lag on an ARM host.
+- (RPI version only) You can use [vdesktop](https://github.com/Botspot/vdesktop) to test out the OS in a container without any lag and flashing needed on an ARM host.
 - (RPI version only) Default username is "pi" and password is "raspberry"
 - (x86 version only) Default username is "amogos" and password is "amogos"
-- amogOS is not a custom OS, it's just riced RPi OS/Debian Buster. It doesn't have any custom source code or anything.
+- amogOS is not a custom OS, it's just riced RPi OS/Debian Buster. It doesn't have any custom written source code.
 
 # Credits
 - Main dev and founder: Moon1789#6969 (https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA)
