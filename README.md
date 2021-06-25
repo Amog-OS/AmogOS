@@ -22,7 +22,7 @@ https://discord.gg/k4d24VaAJN
 - Custom wallpapers and start menu icon
 - Grey color palette to match Among Us
 - Custom neofetch logo
-- [MCPI Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn)
+- [MCPI Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn) (It's reccomended you use the included `gMCPIL` launcher to launch the game)
 
 ### RPI only features, not present on x86 build
 - [among-sus](https://git.sr.ht/~martijnbraam/among-sus), an open-source among us alternative playable in terminal (use `among-sus-server` to host a localhost server and `among-sus` to connect to a server hosted on the current device, or `nc <ip on your LAN network>` to join a game on your network)
