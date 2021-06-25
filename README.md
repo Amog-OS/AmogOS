@@ -3,7 +3,7 @@ Among Us-inspired OS ඞ.
 
 ![image](https://user-images.githubusercontent.com/44128563/119536694-98920980-bd46-11eb-950e-425475bb90ac.png)
 
-This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/ (and also yoinks the icon and wallpaper from it).
+This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/ (and also yoinks the icon and wallpaper from it, originally made by u/_peekatchoo_ on Reddit).
 
 EDIT: AHHH Mutahar covered the OS!!!!! I am beyond words that he made a video on this sussy OS. This OS was inspiried by other similiar mods people have made (credit above). I'm just gonna sneak in my youtube channel here to capitalize on the fame :) I cover Raspberry Pi-related content:  
 pi news : https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw
