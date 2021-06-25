@@ -10,7 +10,7 @@ pi news : https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw
 also link to moon, the head dev of the project
 moon1789 : https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA 
 
-## Download:
+## Download:  
 (This build is for RPI 3 and 4, x86 build coming soon)
 https://github.com/jostroOS/amogOS/releases/latest
 
