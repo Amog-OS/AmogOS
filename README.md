@@ -15,7 +15,7 @@ moon1789 : https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA
 https://github.com/jostroOS/amogOS/releases/latest
 
 ## Important Notice for QEMU Users:
-If the latest version of Amogos dosent work on qemu , try an older release (we dont know whats the issue but thats the only solution for now) , Mostly v1.2.0 or v1.0.0 should do the Job!
+This is meant for RPI 3 and 4. If you would like to run it on a x86 system, you can do so via QEMU. Download it [here](https://drive.google.com/file/d/1wgkJYwNV7jqxNFW_uRPPZ3JKvd87mVPE/view?usp=sharing) and read the instructions inside the zip to find how to replace the Twister OS image with amogOS. If the latest version of Amogos dosent work on QEMU, try an older release (we dont know whats the issue but thats the only solution for now) , Mostly v1.2.0 or v1.0.0 should do the Job!
 
 ### Get support on Discord:
 https://discord.gg/k4d24VaAJN
@@ -35,7 +35,7 @@ https://discord.gg/k4d24VaAJN
 - Wine + box86 preinstalled for x86 windows syscall translation
 - piKiss and pi-apps preinstalled so you can install some games and also A M O N G U S
 (Among Us will run at ~5 fps on multiplayer play. It's a really crap framerate, but for a game never intended to run on a CPU the size of a thumb with 2 layers of syscall translation (x86 windows -> x86 linux -> arm linux), it's decent. A small resolution is needed for the game to run without insane lag.)
-- You can overclock your RPI to get slightly more performace.
+- You can overclock your RPI with Commander Pi to get slightly more performace.
 
 ## Notes
 - (RPI version only) You can use [vdesktop](https://github.com/Botspot/vdesktop) to test out the OS in a container without any lag and flashing needed on an ARM host.
