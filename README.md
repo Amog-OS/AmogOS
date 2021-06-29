@@ -1,4 +1,4 @@
-# amogOS
+# AmogOS
 Among Us-inspired OS ඞ.
 
 ![image](https://user-images.githubusercontent.com/44128563/120727498-ecfc5e00-c497-11eb-9f92-a1b99318fee1.png)
