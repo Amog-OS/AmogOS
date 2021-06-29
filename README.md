@@ -25,7 +25,7 @@ https://discord.gg/k4d24VaAJN
 - Custom wallpapers and start menu icon
 - Grey color palette to match Among Us
 - Custom neofetch logo
-- [MCPI Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn) (It's reccomended you use the included `gMCPIL` launcher to launch the game)
+- [MCPI Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn) (It's recommended you use the included `gMCPIL` launcher to launch the game)
 - Uses Openbox WM, allowing you to switch to 4 desktop spaces with the scroll wheel, similar to macOS.
 
 ### RPI only features, not present on x86 build
