@@ -1,7 +1,7 @@
 # AmogOS
 Among Us-inspired OS ඞ.
 
-![image](https://user-images.githubusercontent.com/44128563/120727498-ecfc5e00-c497-11eb-9f92-a1b99318fee1.png)
+![amogOS screenshot with anne wallpaper](https://user-images.githubusercontent.com/44128563/124066315-b01f7a80-d9f5-11eb-9c2a-968f459a6e7c.png)
 
 This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/ (and also yoinks the icon and wallpaper from it, originally made by `u/_peekatchoo_` on Reddit).
 
