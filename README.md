@@ -22,7 +22,7 @@ https://discord.gg/k4d24VaAJN
 
 ## Features
 - Kinda sussy
-- Custom wallpapers and start menu icon
+- Custom wallpapers and start menu icon that can be found in `/home/pi/Pictures/amogOS/`
 - Grey color palette to match Among Us
 - Custom neofetch logo
 - [MCPI Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn) (It's recommended you use the included `gMCPIL` launcher to launch the game)
