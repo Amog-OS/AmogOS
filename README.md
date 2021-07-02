@@ -14,6 +14,9 @@ moon1789 : https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA
 (This build is for RPI 3 and 4, x86 build coming soon)
 https://github.com/jostroOS/amogOS/releases/latest
 
+## Website :
+Our Website is online over at https://www.jostroos.ml/ , designed by F-fengzi (hes too sus to keep his full name here), and maybe check out jostro os too...
+ 
 ## Important Notice for QEMU Users:
 This is meant for RPI 3 and 4. If you would like to run it on a x86 system, you can do so via QEMU. Download it [here](https://drive.google.com/file/d/1wgkJYwNV7jqxNFW_uRPPZ3JKvd87mVPE/view?usp=sharing) and read the instructions inside the zip to find how to replace the Twister OS image with amogOS. If the latest version of Amogos dosent work on QEMU, try an older release (we dont know whats the issue but thats the only solution for now) , Mostly v1.2.0 or v1.0.0 should do the Job!
 
