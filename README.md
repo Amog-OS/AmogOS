@@ -14,6 +14,9 @@ moon1789 : https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA
 (This build is for RPI 3 and 4, x86 build coming soon)
 https://github.com/jostroOS/amogOS/releases/latest
 
+Update: This is a experimental beta x86 iso build. It is a live USB image designed for VMs. Note it doesn't have internet tho!  
+https://mega.nz/file/JX5iwDbJ#OzVrlyEoAJUrXFMaumM8GxlcP6b99EwPGdb8SjidzVQ
+
 ## Website :
 Our Website is online over at https://www.jostroos.ml/ , designed by F-fengzi (hes too sus to keep his full name here), and maybe check out jostro os too...
  
