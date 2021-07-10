@@ -14,6 +14,8 @@ moon1789 : https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA
 (This build is for RPI 3 and 4, x86 build coming soon)
 https://github.com/jostroOS/amogOS/releases/latest
 
+(please note that by downloading amogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGU-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods.)
+
 Update: This is a experimental beta x86 iso build. It is a live USB image designed for VMs. Note it doesn't have internet tho!  
 https://mega.nz/file/JX5iwDbJ#OzVrlyEoAJUrXFMaumM8GxlcP6b99EwPGdb8SjidzVQ
 
