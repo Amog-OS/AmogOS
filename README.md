@@ -14,7 +14,7 @@ Links to people who've covered amogOS:
 SomeOrdinaryGamers: https://www.youtube.com/watch?v=ixLuhDxNktk
 Raspberry Pi News (developer): https://www.youtube.com/watch?v=jiQVuhNiTZ0
 Moon 1789 (founder): https://www.youtube.com/watch?v=hkzYIwMYds8
-TechHut: https://www.youtube.com/watch?v=V_PR1-Gs61k
+TechHut: https://youtu.be/ymYIJYb2hYI
 
 ## Download:  
 (This build is for RPI 3 and 4, x86 build coming soon)
