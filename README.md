@@ -6,9 +6,9 @@ Among Us-inspired OS ඞ.
 This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/ (and also yoinks the icon and wallpaper from it, originally made by `u/_peekatchoo_` on Reddit).
 
 EDIT: AHHH Mutahar and so many others covered the OS!!!!! I am beyond words that he made a video on this sussy OS. This OS was inspiried by other similiar mods people have made (credit above). I'm just gonna sneak in my youtube channel here to capitalize on the fame :) I cover Raspberry Pi-related content:  
-pi news : https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw
+pi news: https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw
 also link to moon, the head dev of the project
-moon1789 : https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA
+moon1789: https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA
 
 Links to people who've covered amogOS:  
 SomeOrdinaryGamers: https://www.youtube.com/watch?v=ixLuhDxNktk  
@@ -20,17 +20,17 @@ TechHut: https://youtu.be/ymYIJYb2hYI
 (This build is for RPI 3 and 4, x86 build coming soon)
 https://github.com/jostroOS/amogOS/releases/latest
 
-(please note that by downloading amogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGU-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods.)
+(please note that by downloading amogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGU-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods).
 
-Update: This is a experimental beta x86 iso build. It is a live USB image designed for VMs. **NOTE : The vm may or may not have internet**  
+Update: This is a experimental beta x86 iso build. It is a live USB image designed for VMs. **NOTE: The vm may or may not have internet**  
 https://mega.nz/file/JX5iwDbJ#OzVrlyEoAJUrXFMaumM8GxlcP6b99EwPGdb8SjidzVQ
 
-## Website :
+## Website:
 Our Website is online over at https://www.jostroos.ml/ , designed by F-fengzi (hes too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
  
 ## Important Notice for QEMU Users:
-This is meant for RPI 3 and 4. If you would like to run it on a x86 system, you can do so via QEMU. Download it [here](https://drive.google.com/file/d/1wgkJYwNV7jqxNFW_uRPPZ3JKvd87mVPE/view?usp=sharing) and read the instructions inside the zip to find how to replace the Twister OS image with amogOS. If the latest version of Amogos dosent work on QEMU, try an older release (we dont know whats the issue but thats the only solution for now) , Mostly v1.2.0 or v1.0.0 should do the Job!
-*use the experimental x86 build , if you dont understand QEMU*
+This is meant for RPI 3 and 4. If you would like to run it on a x86 system, you can do so via QEMU. Download it [here](https://drive.google.com/file/d/1wgkJYwNV7jqxNFW_uRPPZ3JKvd87mVPE/view?usp=sharing) and read the instructions inside the zip to find how to replace the Twister OS image with amogOS. If the latest version of Amogos dosent work on QEMU, try an older release (we dont know whats the issue but thats the only solution for now), Mostly v1.2.0 or v1.0.0 should do the Job!
+*use the experimental x86 build, if you dont understand QEMU*
 
 ### Get support on Discord:
 https://discord.gg/k4d24VaAJN
@@ -49,7 +49,7 @@ https://discord.gg/k4d24VaAJN
 - Preinstall CommanderPi, piwiz, Box86, tldr, Pi Power Tools, pi-apps, Colour Emoji Font, Stacer, legendary launcher (to replace Epic Games Launcher), and preinstall a 64-bit container to run aarch64 apps
 - Wine + box86 preinstalled for x86 windows syscall translation
 - piKiss and pi-apps preinstalled so you can install some games and also A M O N G U S
-(Among Us will run at ~5 fps on multiplayer play. It's a really crap framerate, but for a game never intended to run on a CPU the size of a thumb with 2 layers of syscall translation (x86 windows -> x86 linux -> arm linux), it's decent. A small resolution is needed for the game to run without insane lag.)
+(Among Us will run at ~5 fps on multiplayer play. It's a really crap framerate, but for a game never intended to run on a CPU the size of a thumb with 2 layers of syscall translation (x86 windows -> x86 linux -> arm linux), it's decent. A small resolution is needed for the game to run without insane lag).
 - You can overclock your RPI with Commander Pi to get slightly more performace.
 
 ## Notes
