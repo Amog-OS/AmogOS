@@ -10,11 +10,11 @@ pi news : https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw
 also link to moon, the head dev of the project
 moon1789 : https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA
 
-Links to people who've covered amogOS:
-SomeOrdinaryGamers: https://www.youtube.com/watch?v=ixLuhDxNktk
-Raspberry Pi News (developer): https://www.youtube.com/watch?v=jiQVuhNiTZ0
-Moon 1789 (founder): https://www.youtube.com/watch?v=hkzYIwMYds8
-TechHut: https://youtu.be/ymYIJYb2hYI
+Links to people who've covered amogOS:  
+SomeOrdinaryGamers: https://www.youtube.com/watch?v=ixLuhDxNktk  
+Raspberry Pi News (developer): https://www.youtube.com/watch?v=jiQVuhNiTZ0  
+Moon 1789 (founder): https://www.youtube.com/watch?v=hkzYIwMYds8  
+TechHut: https://youtu.be/ymYIJYb2hYI  
 
 ## Download:  
 (This build is for RPI 3 and 4, x86 build coming soon)
