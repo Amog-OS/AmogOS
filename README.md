@@ -22,7 +22,7 @@ https://github.com/jostroOS/amogOS/releases/latest
 
 (please note that by downloading amogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGU-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods.)
 
-Update: This is a experimental beta x86 iso build. It is a live USB image designed for VMs. Note it doesn't have internet tho unless you use it in a VM!  
+Update: This is a experimental beta x86 iso build. It is a live USB image designed for VMs. **NOTE : The vm may or may not have internet**  
 https://mega.nz/file/JX5iwDbJ#OzVrlyEoAJUrXFMaumM8GxlcP6b99EwPGdb8SjidzVQ
 
 ## Website :
