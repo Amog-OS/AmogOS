@@ -22,16 +22,16 @@ https://github.com/jostroOS/amogOS/releases/latest
 
 **NOTE : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR ISSUE**
 
-(please note that by downloading amogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGU-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods).
+(please note that by downloading amogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods).
 
 Update: This is a experimental beta x86 iso build. It is a live USB image designed for VMs. **NOTE: The vm may or may not have internet**  
 https://mega.nz/file/JX5iwDbJ#OzVrlyEoAJUrXFMaumM8GxlcP6b99EwPGdb8SjidzVQ
 
 ## Website:
-Our Website is online over at https://www.jostroos.ml/ , designed by F-fengzi (hes too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
+Our Website is online over at https://www.jostroos.ml/amogos , designed by Fengzi (he's too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
  
 ## Important Notice for QEMU Users:
-This is meant for RPI 3 and 4. If you would like to run it on a x86 system, you can do so via QEMU. Download it [here](https://drive.google.com/file/d/1wgkJYwNV7jqxNFW_uRPPZ3JKvd87mVPE/view?usp=sharing) and read the instructions inside the zip to find how to replace the Twister OS image with amogOS. If the latest version of Amogos dosent work on QEMU, try an older release (we dont know whats the issue but thats the only solution for now), Mostly v1.2.0 or v1.0.0 should do the Job!
+This is meant for RPI 3 and 4. If you would like to run it on a x86 system, you can do so via QEMU. Download it [here](https://drive.google.com/file/d/1wgkJYwNV7jqxNFW_uRPPZ3JKvd87mVPE/view?usp=sharing) and read the instructions inside the zip to find how to replace the Twister OS image with AmogOS. If the latest version of AmogOS dosent work on QEMU, try an older release (we dont know whats the issue but thats the only solution for now), Mostly v1.2.0 or v1.0.0 should do the Job!
 *use the experimental x86 build, if you dont understand QEMU*
 
 ### Get support on Discord:
@@ -62,7 +62,7 @@ https://discord.gg/k4d24VaAJN
 
 # Credits
 - Founder/UI Dev: Moon1789#6969 (https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA)
-- System Dev/OS packager: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on amogOS related content and call me sussy imposter :p)
+- System Dev/OS packager: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on AmogOS related content and call me sussy imposter :p)
 - Graphical designer: peekatchoo#0101
 - Thanks to ! -Linkley Steals Your Kinky 2#2002 for hosting torrents :)
 - Thanks to JoJo Autoboy for being our overload
