@@ -20,6 +20,8 @@ TechHut: https://youtu.be/ymYIJYb2hYI
 (This build is for RPI 3 and 4, x86 build coming soon)
 https://github.com/jostroOS/amogOS/releases/latest
 
+**NOTE : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI**
+
 (please note that by downloading amogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGU-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods).
 
 Update: This is a experimental beta x86 iso build. It is a live USB image designed for VMs. **NOTE: The vm may or may not have internet**  
@@ -63,4 +65,5 @@ https://discord.gg/k4d24VaAJN
 - Co-dev/OS packager: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on amogOS related content and call me sussy imposter :p)
 - Thanks to peek#0101 (Again) for making the wallpapers.
 - Thanks to ! -Linkley Steals Your Kinky 2#2002 for hosting torrents :)
+- Thanks to JoJo Autoboy coz yes
 - Thanks to the jostroOS dev team for letting us use their GH org and website to host downloads!
