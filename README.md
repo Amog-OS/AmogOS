@@ -20,7 +20,7 @@ TechHut: https://youtu.be/ymYIJYb2hYI
 (This build is for RPI 3 and 4, x86 build coming soon)
 https://github.com/jostroOS/amogOS/releases/latest
 
-**NOTE : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI**
+**NOTE : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR ISSUE**
 
 (please note that by downloading amogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGU-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods).
 
@@ -61,9 +61,9 @@ https://discord.gg/k4d24VaAJN
 - **AmogOS is not a custom OS, it's just riced RPi OS/Debian Buster. It doesn't have any custom written source code.**
 
 # Credits
-- Main dev and founder: Moon1789#6969 (https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA)
-- Co-dev/OS packager: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on amogOS related content and call me sussy imposter :p)
-- Thanks to peekatchoo#0001 (Again) for making the wallpapers.
+- Founder/UI Dev: Moon1789#6969 (https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA)
+- System Dev/OS packager: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on amogOS related content and call me sussy imposter :p)
+- Graphical designer: peekatchoo#0101
 - Thanks to ! -Linkley Steals Your Kinky 2#2002 for hosting torrents :)
-- Thanks to JoJo Autoboy coz yes
+- Thanks to JoJo Autoboy for being our overload
 - Thanks to the jostroOS dev team for letting us use their GH org and website to host downloads!
