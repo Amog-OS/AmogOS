@@ -63,7 +63,7 @@ https://discord.gg/k4d24VaAJN
 # Credits
 - Main dev and founder: Moon1789#6969 (https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA)
 - Co-dev/OS packager: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on amogOS related content and call me sussy imposter :p)
-- Thanks to peek#0101 (Again) for making the wallpapers.
+- Thanks to peekatchoo#0001 (Again) for making the wallpapers.
 - Thanks to ! -Linkley Steals Your Kinky 2#2002 for hosting torrents :)
 - Thanks to JoJo Autoboy coz yes
 - Thanks to the jostroOS dev team for letting us use their GH org and website to host downloads!
