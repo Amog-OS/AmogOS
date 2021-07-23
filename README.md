@@ -65,3 +65,22 @@ https://discord.gg/k4d24VaAJN
 - Thanks to JoJo Autoboy for being our overlord
 - Thanks to the jostroOS dev team for letting us use their GH org and website to host downloads!
 - [sUs !1!1!](https://media.discordapp.net/attachments/750607286111567933/798120394056925204/SPOILER_Linus.png?width=699&height=393)
+
+### Software credits
+AmogOS would not be possible without the following open source softwares:
+
+- Base OS 
+Debian and RPI OS
+
+- UI
+Openbox WM
+LXDE for DE
+xcompmgr for effects
+Lightpad for the launchpad thing
+xfce4-panel for dock and the panel
+
+- Misc 
+https://github.com/sueperb/tasty-grubs for the x64 GRUB theme
+[Insert the names of all the apps included that im too lazy to type]
+
+And to Innersloth, for making one of the most famous and memed games of 2020.
