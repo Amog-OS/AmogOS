@@ -17,40 +17,33 @@ Moon 1789 (founder): https://www.youtube.com/watch?v=hkzYIwMYds8
 TechHut: https://youtu.be/ymYIJYb2hYI  
 
 ## Download:  
-(This build is for RPI 3 and 4, x86 build coming soon)
+NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names.
 https://github.com/jostroOS/amogOS/releases/latest
 
-**NOTE : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR // BOOT ISSUE**
+**For RPI users : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR // BOOT ISSUE**
 
 (please note that by downloading amogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods).
-
-Update: This is a experimental beta x86 iso build. It is a live USB image designed for VMs. **NOTE: The vm may or may not have internet**  
-https://mega.nz/file/JX5iwDbJ#OzVrlyEoAJUrXFMaumM8GxlcP6b99EwPGdb8SjidzVQ
 
 ## Website:
 Our Website is online over at https://www.jostroos.ml/amogos , designed by Fengzi (he's too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
 
 # Merch:
-Now stocking AmogOS logo stickers and amogOS inside stickers (we priced it as cheap as possible so pls buy some my family is starving and i have -500$)
+Now stocking very sus stickers (we priced it as cheap as possible so pls buy some my family is starving and i have -500$)
 https://merch.jostroos.ml/
- 
-## Important Notice for QEMU Users:
-This is meant for RPI 3 and 4. If you would like to run it on a x86 system, you can do so via QEMU. Download it [here](https://drive.google.com/file/d/1wgkJYwNV7jqxNFW_uRPPZ3JKvd87mVPE/view?usp=sharing) and read the instructions inside the zip to find how to replace the Twister OS image with AmogOS. If the latest version of AmogOS dosent work on QEMU, try an older release (we dont know whats the issue but thats the only solution for now), Mostly v1.2.0 or v1.0.0 should do the Job!
-*use the experimental x86 build, if you dont understand QEMU*
 
 ### Get support on Discord:
 https://discord.gg/k4d24VaAJN
 
 ## Features
-- Kinda sussy
-- Custom wallpapers and start menu icon that can be found in `/home/pi/Pictures/amogOS/`
+- Too sus
+- Custom wallpapers and start menu icon that can be found in `~/Pictures/.amogOS/`
 - Grey color palette to match Among Us
 - Custom neofetch logo
 - [MCPI Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn) (It's recommended you use the included `gMCPIL` launcher to launch the game)
-- Uses Openbox WM, allowing you to switch to 2 desktop spaces with the scroll wheel, similar to macOS.
+- Uses Openbox WM and LXDE, allowing you to switch to 2 desktop spaces with the scroll wheel, similar to macOS.
+- [among-sus](https://git.sr.ht/~martijnbraam/among-sus), an open-source among us alternative playable in terminal (use `among-sus-server` to host a localhost server and `among-sus` to connect to a server hosted on the current device, or `nc <ip on your LAN network>` to join a game on your network)
 
 ### RPI only features, not present on x86 build
-- [among-sus](https://git.sr.ht/~martijnbraam/among-sus), an open-source among us alternative playable in terminal (use `among-sus-server` to host a localhost server and `among-sus` to connect to a server hosted on the current device, or `nc <ip on your LAN network>` to join a game on your network)
 - 64-bit kernel enabled by default for speed, as well as to enable Wine support on RPI 3
 - Preinstall CommanderPi, piwiz, Box86, tldr, Pi Power Tools, pi-apps, Colour Emoji Font, Stacer, legendary launcher (to replace Epic Games Launcher), and preinstall a 64-bit container to run aarch64 apps
 - Wine + box86 preinstalled for x86 windows syscall translation
@@ -68,6 +61,6 @@ https://discord.gg/k4d24VaAJN
 - Founder/UI Dev: Moon1789#6969 (https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA)
 - System Dev/OS packager: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on AmogOS related content and call me sussy imposter :p)
 - Graphical designer: peekatchoo#0101
-- Thanks to ! -Linkley Steals Your Kinky 2#2002 for hosting torrents :)
-- Thanks to JoJo Autoboy for being our overload
+- Thanks to ! -Linkley Steals Your Kinky 2#2002 for hosting torrents
+- Thanks to JoJo Autoboy for being our overlord
 - Thanks to the jostroOS dev team for letting us use their GH org and website to host downloads!
