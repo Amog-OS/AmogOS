@@ -20,6 +20,8 @@ TechHut: https://youtu.be/ymYIJYb2hYI
 NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names.
 https://github.com/jostroOS/amogOS/releases/latest
 
+**For x64 users : You can now easily install AmogOS to a live USB with [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)! Select `AmogOS` in the `Other Distros` section, click `Download Link` to download the ISO and flash it!**
+
 **For RPI users : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR // BOOT ISSUE**
 
 (please note that by downloading amogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods).
@@ -69,18 +71,21 @@ https://discord.gg/k4d24VaAJN
 ### Software credits
 AmogOS would not be possible without the following open source softwares:
 
-- Base OS 
-Debian and RPI OS
+- Base OS  
 
-- UI
-Openbox WM
-LXDE for DE
-xcompmgr for effects
-Lightpad for the launchpad thing
-xfce4-panel for dock and the panel
+Debian and RPI OS  
 
-- Misc 
-https://github.com/sueperb/tasty-grubs for the x64 GRUB theme
-[Insert the names of all the apps included that im too lazy to type]
+- UI  
 
-And to Innersloth, for making one of the most famous and memed games of 2020.
+Openbox WM  
+LXDE for DE  
+xcompmgr for effects  
+Lightpad for the launchpad thing  
+xfce4-panel for dock and the panel  
+
+- Misc  
+
+https://github.com/sueperb/tasty-grubs for the x64 GRUB theme  
+[Insert the names of all the apps included that im too lazy to type]  
+
+And to Innersloth, for making one of the most famous and memed games of 2020.  
