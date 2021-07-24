@@ -20,7 +20,7 @@ TechHut: https://youtu.be/ymYIJYb2hYI
 
 ## Download:  
 NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names.
-https://github.com/jostroOS/amogOS/releases/latest
+https://github.com/jostroOS/AmogOS/releases
 
 **For x64 users : You can now easily install AmogOS to a live USB with [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)! Select `AmogOS` in the `Other Distros` section, click `Download Link` to download the ISO and flash it!**
 
