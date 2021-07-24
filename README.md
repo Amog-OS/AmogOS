@@ -91,3 +91,11 @@ https://github.com/sueperb/tasty-grubs for the x64 GRUB theme
 [Insert the names of all the apps included that im too lazy to type]  
 
 And to Innersloth, for making one of the most famous and memed games of 2020.  
+
+### Donation
+We only accept Cryptos right now (we are broke pls send help by donating)
+Duino Coin : moon1789
+Bitcoin : bc1qs0vg6a4plfqzhtg9nq0wgyltrv9ghlaymyug8q
+Tron : THAM7LmhrsaDrQULdaKBsnKs6S537DiCAk
+Ethereum : 0x31A1DF3654c2827E77e2426E88c9Ec22ab701D5A
+(pi news and peek slap your donation adresses here)
