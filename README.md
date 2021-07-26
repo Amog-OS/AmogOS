@@ -69,6 +69,7 @@ https://discord.gg/k4d24VaAJN
 - Thanks to JoJo Autoboy for being our overlord
 - Thanks to the jostroOS dev team for letting us use their GH org and website to host downloads!
 - [sUs !1!1!](https://media.discordapp.net/attachments/750607286111567933/798120394056925204/SPOILER_Linus.png?width=699&height=393)
+- (Note : Discord tags and names may change)
 
 ### Software credits
 AmogOS would not be possible without the following open source softwares:
@@ -94,8 +95,8 @@ And to Innersloth, for making one of the most famous and memed games of 2020.
 
 ### Donation
 We only accept Cryptos right now (we are broke pls send help by donating)
-Duino Coin : moon1789
-Bitcoin : bc1qs0vg6a4plfqzhtg9nq0wgyltrv9ghlaymyug8q
-Tron : THAM7LmhrsaDrQULdaKBsnKs6S537DiCAk
-Ethereum : 0x31A1DF3654c2827E77e2426E88c9Ec22ab701D5A
-(pi news and peek slap your donation adresses here)
+- Duino Coin : moon1789
+- Bitcoin : bc1qs0vg6a4plfqzhtg9nq0wgyltrv9ghlaymyug8q
+- Tron : THAM7LmhrsaDrQULdaKBsnKs6S537DiCAk
+- Ethereum : 0x31A1DF3654c2827E77e2426E88c9Ec22ab701D5A
+- (pi news and peek slap your donation adresses here)
