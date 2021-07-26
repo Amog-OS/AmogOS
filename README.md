@@ -68,7 +68,7 @@ https://discord.gg/k4d24VaAJN
 - Thanks to ! -Linkley Steals Your Kinky 2#2002 for hosting torrents
 - Thanks to JoJo Autoboy for being our overlord
 - Thanks to the jostroOS dev team for letting us use their GH org and website to host downloads!
-- [sUs !1!1!](https://media.discordapp.net/attachments/750607286111567933/798120394056925204/SPOILER_Linus.png?width=699&height=393)
+- [sUs !1!1!](https://linustechtips.com/uploads/monthly_2021_03/1647043410_LinusWindowsXP.png.52fed85d600faa323ec2fa515d1b3ff7.png)
 - (Note : Discord tags and names may change)
 
 ### Software credits
