@@ -22,7 +22,7 @@ TechHut: https://youtu.be/ymYIJYb2hYI
 NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names.
 https://github.com/jostroOS/AmogOS/releases
 
-**For x64 users : You can now easily install AmogOS to a live USB with [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)! Select `AmogOS` in the `Other Distros` section, click `Download Link` to download the ISO and flash it!**
+**For x64 users : You can now easily install AmogOS to a live USB with [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)! Select `AmogOS` in the `Other Distros` section, download the latest x64 zip in the releases page from the link above, choose the ISO and flash it! x64 also takes like a whole 30 secs to load the UI from usb boot so be patient!**
 
 **For RPI users : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR // BOOT ISSUE**
 
