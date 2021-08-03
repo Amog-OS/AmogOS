@@ -8,10 +8,10 @@ Among Us-inspired OS ඞ.
 This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/ (and also yoinks the icon and wallpaper from it, originally made by `u/_peekatchoo_` on Reddit).
 
 ## Testimonies
-"sussy wussy" -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)  
-"I'm pretty sure AmogOS has broken Mutahar's mental state and now he only says "sussy wussy" in like a really weird voice" -[Raspberry Pi News (developer)](https://www.youtube.com/watch?v=jiQVuhNiTZ0)  
-"when amphibia kinda sus" -[Moon 1789 (founder)](https://www.youtube.com/watch?v=hkzYIwMYds8)  
-"chad AmogOS vs bloated mainstream distro" -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
+`sussy wussy` -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)  
+`I'm pretty sure AmogOS has broken Mutahar's mental state and now he only says "sussy wussy" in like a really weird voice` -[Raspberry Pi News (developer)](https://www.youtube.com/watch?v=jiQVuhNiTZ0)  
+`when amphibia kinda sus"` -[Moon 1789 (founder)](https://www.youtube.com/watch?v=hkzYIwMYds8)  
+`chad AmogOS vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
 ## Download:  
 NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names.  
