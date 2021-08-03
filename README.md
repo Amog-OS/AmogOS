@@ -7,7 +7,7 @@ Among Us-inspired OS ඞ.
 
 This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/ (and also yoinks the icon and wallpaper from it, originally made by `u/_peekatchoo_` on Reddit).
 
-## Testimonies
+## Testimonies:
 `sussy wussy` -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)  
 `I'm pretty sure AmogOS has broken Mutahar's mental state and now he only says "sussy wussy" in like a really weird voice` -[Raspberry Pi News (developer)](https://www.youtube.com/watch?v=jiQVuhNiTZ0)  
 `when amphibia kinda sus"` -[Moon 1789 (founder)](https://www.youtube.com/watch?v=hkzYIwMYds8)  
@@ -26,14 +26,14 @@ Grab install instructions and the download links here on our website: https://ww
 ## Website:
 Our Website is online over at https://www.jostroos.ml/amogos , designed by Fengzi (he's too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
 
-# Merch:
+## Merch:
 Now stocking very sus stickers (we priced it as cheap as possible so pls buy some my family is starving from the among us skins im purchasing) (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping)
 https://merch.jostroos.ml/ 
 
-### Get support on Discord:
+## Get support on Discord:
 https://discord.gg/k4d24VaAJN
 
-## Features
+## Features:
 - Too sus
 - Custom wallpapers and start menu icon that can be found in `~/Pictures/.amogOS/`
 - Grey color palette to match Among Us
@@ -42,7 +42,7 @@ https://discord.gg/k4d24VaAJN
 - Uses Openbox WM and LXDE, allowing you to switch to 2 desktop spaces with the scroll wheel, similar to macOS.
 - [among-sus](https://git.sr.ht/~martijnbraam/among-sus), an open-source among us alternative playable in terminal (use `among-sus-server` to host a localhost server and `among-sus` to connect to a server hosted on the current device, or `nc <ip on your LAN network>` to join a game on your network)
 
-### RPI only features, not present on x86 build
+### RPI only features, not present on x86 build:
 - 64-bit kernel enabled by default for speed, as well as to enable Wine support on RPI 3
 - Preinstall CommanderPi, piwiz, Box86, tldr, Pi Power Tools, pi-apps, Colour Emoji Font, Stacer, legendary launcher (to replace Epic Games Launcher), and preinstall a 64-bit container to run aarch64 apps
 - Wine + box86 preinstalled for x86 windows syscall translation
@@ -50,13 +50,13 @@ https://discord.gg/k4d24VaAJN
 (Among Us will run at ~5 fps on multiplayer play. It's a really crap framerate, but for a game never intended to run on a CPU the size of a thumb with 2 layers of syscall translation (x86 windows -> x86 linux -> arm linux), it's decent. A small resolution is needed for the game to run without insane lag).
 - You can overclock your RPI with Commander Pi to get slightly more performace.
 
-## Notes
+## Notes:
 - (RPI version only) You can use [vdesktop](https://github.com/Botspot/vdesktop) to test out the OS in a container without any lag and flashing needed on an ARM host.
 - (RPI version only) Default username is "pi" and password is "raspberry"
 - (x86 version only) Default username is "amogos" and password is "amogos"
 - **AmogOS is not a custom OS, it's just riced RPi OS/Debian Buster. It doesn't have any custom written source code.**
 
-# Credits
+# Credits:
 - Founder/UI Dev: Moon1789#6969 (https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA)
 - System Dev/OS packager: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on AmogOS related content and call me sussy imposter :p)
 - Graphical designer: peekatchoo#0001
@@ -66,7 +66,7 @@ https://discord.gg/k4d24VaAJN
 - [sUs !1!1!](https://linustechtips.com/uploads/monthly_2021_03/1647043410_LinusWindowsXP.png.52fed85d600faa323ec2fa515d1b3ff7.png)
 - (Note : Discord tags and names may change)
 
-### Software credits
+### Software credits:
 AmogOS would not be possible without the following open source softwares:
 
 - Base OS  
@@ -90,11 +90,11 @@ https://github.com/Botspot/Pi-Power-Tools and https://www.raspberrypi.org/forums
 
 And to Innersloth, for making one of the most famous and memed games of 2020.  
 
-### Donation
+### Donation:
 Donate to our opencollective, all funds spending is transparent so you know what we do with your generous donations! https://opencollective.com/amogos (we are 2 broke high schoolers pls donat or become sus)
 
-- Duino Coin : moon1789
+- Duino Coin : `rpinews` & `moon1789`
 - Bitcoin : bc1qs0vg6a4plfqzhtg9nq0wgyltrv9ghlaymyug8q
 - Tron : THAM7LmhrsaDrQULdaKBsnKs6S537DiCAk
 - Ethereum : 0x31A1DF3654c2827E77e2426E88c9Ec22ab701D5A
-- (pi news and peek slap your donation adresses here)
+- (peek slap your donation adresses here)
