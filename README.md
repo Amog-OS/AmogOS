@@ -7,22 +7,17 @@ Among Us-inspired OS ඞ.
 
 This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/ (and also yoinks the icon and wallpaper from it, originally made by `u/_peekatchoo_` on Reddit).
 
-EDIT: AHHH Mutahar and so many others covered the OS!!!!! I am beyond words that he made a video on this sussy OS. This OS was inspiried by other similiar mods people have made (credit above). I'm just gonna sneak in my youtube channel here to capitalize on the fame :) I cover Raspberry Pi-related content:  
-pi news: https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw
-also link to moon, the head dev of the project
-moon1789: https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA
-
-Links to people who've covered amogOS:  
-SomeOrdinaryGamers: https://www.youtube.com/watch?v=ixLuhDxNktk  
-Raspberry Pi News (developer): https://www.youtube.com/watch?v=jiQVuhNiTZ0  
-Moon 1789 (founder): https://www.youtube.com/watch?v=hkzYIwMYds8  
-TechHut: https://youtu.be/ymYIJYb2hYI  
+## Testimonies
+"sussy wussy" -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)
+"I'm pretty sure AmogOS has broken Mutahar's mental state and now he only says "sussy wussy" in like a really weird voice" -[Raspberry Pi News (developer](https://www.youtube.com/watch?v=jiQVuhNiTZ0)
+"when amphibia kinda sus" -[Moon 1789 (founder)](https://www.youtube.com/watch?v=hkzYIwMYds8)
+"chad AmogOS vs bloated mainstream distro" -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)
 
 ## Download:  
 NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names.
 https://github.com/jostroOS/AmogOS/releases
 
-**For x64 users : You can now easily install AmogOS to a live USB with [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)! Select `AmogOS` in the `Other Distros` section, download the latest x64 zip in the releases page from the link above, choose the ISO and flash it! x64 also takes like a whole 30 secs to load the UI from usb boot so be patient!**
+**For x64 users : You can now easily install AmogOS to a live USB with [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)! Instructions for installation are in the README file inside the zip package on the releases page. x64 also takes like a whole 30 secs to load the UI from usb boot so be patient!**
 
 **For RPI users : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR // BOOT ISSUE**
 
