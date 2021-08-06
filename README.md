@@ -44,7 +44,7 @@ https://discord.gg/k4d24VaAJN
 - Uses Openbox WM and LXDE, allowing you to switch to 2 desktop spaces with the scroll wheel, similar to macOS.
 - [among-sus](https://git.sr.ht/~martijnbraam/among-sus), an open-source among us alternative playable in terminal (use `among-sus-server` to host a localhost server and `among-sus` to connect to a server hosted on the current device, or `nc <ip on your LAN network>` to join a game on your network)
 
-### RPI only features, not present on x86 build:
+### RPI only features, not present on x86_64 build:
 - 64-bit kernel enabled by default for speed, as well as to enable Wine support on RPI 3
 - Preinstall CommanderPi, piwiz, Box86, tldr, Pi Power Tools, pi-apps, Colour Emoji Font, Stacer, legendary launcher (to replace Epic Games Launcher), and preinstall a 64-bit container to run aarch64 apps
 - Wine + box86 preinstalled for x86 windows syscall translation
