@@ -5,7 +5,7 @@ Among Us-inspired OS ඞ.
 
 ## General Info:  
 
-This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/ (and also yoinks the icon and wallpaper from it, originally made by `u/_peekatchoo_` on Reddit).
+This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/ (and also yoinks the icon and wallpaper from it, originally made by `u/_peekatchoo_` on Reddit). AmogOS is a meme OS based on the hit game Among Us, in the same vain as Hannah Montana Linux, but it's also developed and made to be a highly lightweight operating system that can be used as a desktop OS if one really wanted to, and it's a bit ironic that AmogOS is lighter and less bloated than most mainstream distros (`chad AmogOS vs bloated mainstream distro` as Youtuber TechHut put it).
 
 ## Testimonies:
 `sussy wussy` -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)  
