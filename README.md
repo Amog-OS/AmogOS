@@ -56,7 +56,7 @@ https://discord.gg/k4d24VaAJN
 - (RPI version only) You can use [vdesktop](https://github.com/Botspot/vdesktop) to test out the OS in a container without any lag and flashing needed on an ARM host.
 - (RPI version only) Default username is "pi" and password is "raspberry"
 - (x86 version only) Default username is "amogos" and password is "amogos"
-- **AmogOS is not a custom OS, it's just riced RPi OS/Debian Buster. It doesn't have any custom written source code.**
+- **AmogOS is not a custom OS, it's just riced RPi OS/Debian Bullseye for RPI and x64 versions respectively. It doesn't have any custom written source code.**
 
 # Credits:
 - Founder/UI Dev: Moon1789#6969 (https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA)
