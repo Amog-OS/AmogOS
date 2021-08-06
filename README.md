@@ -27,8 +27,10 @@ NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit bui
 Our Website is online over at https://www.jostroos.ml/amogos , designed by Fengzi (he's too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
 
 ## Merch:
-Now stocking very sus stickers (we priced it as cheap as possible so pls buy some my family is starving from the among us skins im purchasing) (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping)
+Now stocking very sus stickers (we priced it as cheap as possible so pls buy some my family is starving from the among us skins im purchasing) (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping) 
 https://merch.jostroos.ml/ 
+
+If you wanna print your own stickers download them [here](https://cdn.discordapp.com/attachments/867502562953658428/867512035687530526/amog-icon.png) and [here](https://cdn.discordapp.com/attachments/867502562953658428/867871352035082300/amogoschip-sticker.png)
 
 ## Get support on Discord:
 https://discord.gg/k4d24VaAJN
