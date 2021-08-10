@@ -17,7 +17,7 @@ This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/ci
 Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html  
 NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names.  
 
-**For x64 users : You can now easily install AmogOS to a live USB with [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)! x64 also takes like a whole 30 secs to load the UI from usb boot so be patient!**
+**For x64 users : It takes like a whole 30 secs to load the UI from usb boot so be patient! Also, you can run AmogOS now online at DistroTest: https://distrotest.net/AmogOS/1.2.0.**
 
 **For RPI users : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR // BOOT ISSUE**
 
