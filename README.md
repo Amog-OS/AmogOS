@@ -19,7 +19,7 @@ NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit bui
 
 **For x64 users : It takes like a whole 30 secs to load the UI from usb boot so be patient! Also, you can run AmogOS now online at DistroTest: https://distrotest.net/AmogOS/1.2.0.**
 
-**For RPI users : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR // BOOT ISSUE**
+**For RPI users : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR // BOOT ISSUE** (Thanks to Santosh#0007 for this tip)
 
 (please note that by downloading amogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods).
 
