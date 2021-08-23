@@ -13,7 +13,7 @@ This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/ci
 `why did I even make this os` -[Moon 1789 (founder)](https://www.youtube.com/watch?v=hkzYIwMYds8)  
 `chad AmogOS vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
-## Download:  
+## Install:
 Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html  
 NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names.  
 
