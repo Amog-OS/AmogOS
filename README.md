@@ -21,7 +21,7 @@ NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit bui
 
 **For RPI users : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR // BOOT ISSUE** (Thanks to Santosh#0007 for this tip)
 
-(please note that by downloading amogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods).
+(please note that by downloading AmogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods).
 
 ## Website:
 Our Website is online over at https://www.jostroos.ml/amogos , designed by Fengzi (he's too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
@@ -92,7 +92,7 @@ https://linux-live.org/ our x64 build packager
 https://github.com/Botspot/Pi-Power-Tools and https://www.raspberrypi.org/forums/viewtopic.php?t=247568 for packaging the RPI builds  
 [Insert the names of all the apps included that im too lazy to type]  
 
-And to Innersloth, for making one of the most famous and memed games of 2020.  
+And to Innersloth, for making one of the most famous and memed games of 2020 and onwards.  
 
 ### Donation:
 Donate to our opencollective, all funds spending is transparent so you know what we do with your generous donations! https://opencollective.com/amogos (we are 2 broke high schoolers pls donat or become sus)
