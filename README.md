@@ -1,7 +1,7 @@
 # AmogOS
 Among Us-inspired OS ඞ.
 
-![amogOS screenshot with anne wallpaper](https://user-images.githubusercontent.com/44128563/124066315-b01f7a80-d9f5-11eb-9c2a-968f459a6e7c.png)
+![AmogOS x64 moon wallpaper screenshot](https://user-images.githubusercontent.com/44128563/130533968-d797e83d-e643-4c62-9264-7d46c2b67b48.png)
 
 ## General Info:  
 
