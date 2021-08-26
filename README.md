@@ -5,7 +5,7 @@ Among Us-inspired OS ඞ.
 
 ## General Info:  
 
-This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/ (and also yoinks the icon and wallpaper from it, originally made by `u/_peekatchoo_` on Reddit). AmogOS is a meme OS based on the hit game Among Us, in the same vain as Hannah Montana Linux, but it's also developed and made to be a highly lightweight operating system that can be used as a desktop OS if one really wanted to, and it's a bit ironic that AmogOS is lighter and less bloated than most mainstream distros (`chad AmogOS vs bloated mainstream distro` as Youtuber TechHut put it).
+This was mostly inspired by [this reddit post] (https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/) (and also yoinks the icon and wallpaper from it, originally made by `u/_peekatchoo_` on Reddit). AmogOS is a meme OS based on the hit game Among Us, in the same vain as Hannah Montana Linux, but it's also developed and made to be a highly lightweight operating system that can be used as a desktop OS if one really wanted to, and it's a bit ironic that AmogOS is lighter and less bloated than most mainstream distros (`chad AmogOS vs bloated mainstream distro` as Youtuber TechHut put it).
 
 ## Testimonies:
 `sussy wussy` -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)  
@@ -14,14 +14,20 @@ This was mostly inspired by https://www.reddit.com/r/unixporn/comments/nhomed/ci
 `chad AmogOS vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
 ## Install:
-Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html  
+**Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html .**
+
 NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names.  
 
-**For x64 users : It takes like a whole 30 secs to load the UI from usb boot so be patient! Also, you can run AmogOS now online at DistroTest: https://distrotest.net/AmogOS/1.2.0.**
-
-**For RPI users : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR // BOOT ISSUE** (Thanks to Santosh#0007 for this tip)
+**For x64 users : It takes like a whole 69 secs to load the UI from usb boot so be patient! **
+**For RPI users : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR // BOOT ISSUE** (Thanks to Santosh#0007 for this tip).
 
 (please note that by downloading AmogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods).
+
+## All Releases :  
+You can take a look at all of our releases over here : https://github.com/jostroOS/amogOS/releases
+
+## Testing AmogOS :
+Also, you can run AmogOS now online , without installing , at DistroTest: https://distrotest.net/AmogOS/1.2.0.
 
 ## Website:
 Our Website is online over at https://www.jostroos.ml/amogos , designed by Fengzi (he's too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
@@ -58,11 +64,12 @@ https://discord.gg/k4d24VaAJN
 - (RPI version only) Default username is "pi" and password is "raspberry"
 - (x86 version only) Default username is "amogos" and password is "amogos"
 - **AmogOS is not a custom OS, it's just riced RPi OS/Debian Bullseye for RPI and x64 versions respectively. It doesn't have any custom written source code.**
+- **AmogOS will never be based off OpenSUSe.**
 
 # Credits:
-- Founder/UI Dev: Moon1789#6969 (https://www.youtube.com/channel/UC9izewtsA__dtENOC_nNkBA)
+- Founder/UI Dev: Moon1789#6969 (https://moon1789.github.io/)
 - Main dev/Packager : RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on AmogOS related content and call me sussy imposter :p)
-- Graphical designer: peekatchoo#0001
+- Graphical designer: peekatchoo#0001.
 - Helper : Santosh#0007 (https://www.youtube.com/channel/UC3VzPfATMFg1i9X33wzfdlA)
 - Thanks to ! -Linkley Steals Your Kinky 2#2002 for hosting torrents
 - Thanks to JoJo Autoboy for being our overlord
