@@ -24,11 +24,8 @@ NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit bui
 
 (please note that by downloading AmogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods).
 
-## All Releases :  
-You can take a look at all of our releases over here : https://github.com/jostroOS/amogOS/releases
-
 ## Testing AmogOS :
-Also, you can run AmogOS now online , without installing , at DistroTest: https://distrotest.net/AmogOS/1.2.0.
+Also, you can run AmogOS now online , without installing , at DistroTest: https://distrotest.net/AmogOS/.
 
 ## Website:
 Our Website is online over at https://www.jostroos.ml/amogos , designed by Fengzi (he's too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
