@@ -33,6 +33,9 @@ Also, you can run AmogOS now online , without installing , at DistroTest: https:
 ## Website:
 Our Website is online over at https://www.jostroos.ml/amogos , designed by Fengzi (he's too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
 
+## Startpage:
+The official startpage for AmogOS / JostroOS is over at https://moon1789.github.io/start/ .
+
 ## Merch:
 Now stocking very sus stickers (we priced it as cheap as possible so pls buy some my family is starving from the among us skins im purchasing) (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping) 
 https://merch.jostroos.ml/ 
