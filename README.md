@@ -16,6 +16,8 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 ## Install:
 **Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html .**
 
+**We are not resposible for ANY KIND DATA LOSS or any kind of problem not relating to AMOGOS**
+
 NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names.  
 
 **For x64 users : It takes like a whole 69 secs to load the UI from usb boot so be patient!**
