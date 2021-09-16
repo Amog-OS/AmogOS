@@ -33,7 +33,7 @@ Also, you can run AmogOS now online , without installing , at DistroTest: https:
 Our Website is online over at https://www.jostroos.ml/amogos , designed by Fengzi (he's too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
 
 ## Startpage:
-The official startpage for AmogOS / JostroOS is over at https://www.jostroos.ml/amogos/startpage/.
+The official startpage for AmogOS is over at https://www.jostroos.ml/amogos/startpage/.
 
 ## Merch:
 Now stocking very sus stickers (we priced it as cheap as possible so pls buy some my family is starving from the among us skins im purchasing) (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping) 
@@ -55,7 +55,6 @@ https://discord.gg/k4d24VaAJN
 - [DollarSkip](https://github.com/CleanMachine1/DollarSkip), a simple C app to ignore `$` signs inputted at the start of a command, for copying commands from online tutorials
 - ncdu and tldr
 - Pi-Apps x86 for x64 build
-- 
 
 ### RPI only features, not present on x86_64 build:
 - 64-bit kernel enabled by default for speed, as well as to enable Wine support on RPI 3
