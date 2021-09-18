@@ -14,11 +14,11 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 `chad AmogOS vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
 ## Install:
-**Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html .**
+**Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html.**
 
 **We are not resposible for ANY KIND DATA LOSS or any kind of problem not relating to AMOGOS**
 
-NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names.  
+NOTE: We have both Raspberry Pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names in their respective releases.  
 
 **For x64 users : It takes like a whole 69 secs to load the UI from usb boot so be patient!**
 
@@ -27,10 +27,10 @@ NOTE: We have both armhf/raspberry pi and x86_64 builds. Raspberry Pi 32-bit bui
 (please note that by downloading AmogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to https://www.youtube.com/watch?v=nFstpT_YTro for treatment methods).
 
 ## Testing AmogOS :
-Also, you can run AmogOS now online , without installing , at DistroTest: https://distrotest.net/AmogOS/.
+Also, you can run AmogOS now online, without installing, at DistroTest: https://distrotest.net/AmogOS/.
 
 ## Website:
-Our Website is online over at https://www.jostroos.ml/amogos , designed by Fengzi (he's too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
+Our Website is online over at https://www.jostroos.ml/amogos, designed by Fengzi (he's too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
 
 ## Startpage:
 The official startpage for AmogOS is over at https://www.jostroos.ml/amogos/startpage/.
