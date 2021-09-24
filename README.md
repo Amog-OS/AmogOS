@@ -31,9 +31,9 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 
 NOTE: We have both Raspberry Pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names in their respective releases.  
 
-For x64 users : It takes like a whole 69420 secs to load the UI from usb boot so be patient!
+For x64 users: It takes like a whole 69420 secs to load the UI from usb boot so be patient!
 
-For RPI users : SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR // BOOT ISSUE.
+For RPI users: SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR // BOOT ISSUE.
 
 ## Install:
 **Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html.**
