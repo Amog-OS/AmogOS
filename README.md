@@ -43,7 +43,7 @@ NOTE: We have both Raspberry Pi and x86_64 builds. Raspberry Pi 32-bit builds wi
 Also, you can run AmogOS now online, without installing, at DistroTest: https://distrotest.net/AmogOS/.
 
 ## Website:
-Our Website is online over at https://www.jostroos.ml/amogos, designed by Fengzi (he's too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
+Our website is online over at https://www.jostroos.ml/amogos, designed by our web developer Fengzi (he's too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
 
 ## Startpage:
 The official startpage for AmogOS is over at https://www.jostroos.ml/amogos/startpage/.
