@@ -121,7 +121,7 @@ https://github.com/Botspot/Pi-Power-Tools and https://www.raspberrypi.org/forums
 And to Innersloth, for making one of the most famous and memed games of 2020 and onwards.  
 
 ### Donation:
-Donate to our opencollective, all funds spending is transparent so you know what we do with your generous donations! https://opencollective.com/amogos (we are 2 broke high schoolers pls donat or become sus)
+Donate to our opencollective, all funds spending is transparent so you know what we do with your generous donations! https://opencollective.com/amogos (we are 2 broke high schoolers pls donate or become sus)
 
 - Duino Coin : `rpinews` & `moon1789`
 - Bitcoin : bc1qs0vg6a4plfqzhtg9nq0wgyltrv9ghlaymyug8q
