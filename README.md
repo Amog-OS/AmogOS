@@ -10,7 +10,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 ## Table of Contents (For lazy ppl who dont wanna scroll):
 -[Testimonies](#Testimonies)  
 -[Shut Up, How Do I Install It](#Install)  
--[Testing AmogOS](#Testing_AmogOS) <br>
+-[Testing AmogOS](#Testing-AmogOS) <br>
 -[Website](#Website)  
 -[Merch](#Merch)  
 -[Support](#Get-support-on-Discord)  
