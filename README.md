@@ -13,7 +13,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 -[Testing AmogOS](#Testing_AmogOS) <br>
 -[Website](#Website)  
 -[Merch](#Merch)  
--[Support](#Get support on Discord)  
+-[Support]("#Get support on Discord")  
 -[Features](#Features)  
 -[Additional Notes](#Notes)  
 -[Credits](#Credits)  
