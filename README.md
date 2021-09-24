@@ -44,10 +44,7 @@ For RPI users: SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI 
 Also, you can run AmogOS now online, without installing, at DistroTest: https://distrotest.net/AmogOS/.
 
 ## Website:
-Our website is online over at https://www.jostroos.ml/amogos, designed by our web developer Fengzi (he's too sus to keep his full name here), and maybe check out our parent OS Jostro OS too...
-
-## Startpage:
-The official startpage for AmogOS is over at https://www.jostroos.ml/amogos/startpage/.
+Our website is online over at https://www.jostroos.ml/amogos, designed by our web developer Fengzi (he's too sus to keep his full name here), and maybe check out our parent OS Jostro OS too also The official startpage for AmogOS is over at https://www.jostroos.ml/amogos/startpage/.
 
 ## Merch:
 Now stocking very sus stickers (we priced it as cheap as possible so pls buy some my family is starving from the among us skins I'm purchasing). (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping). 
