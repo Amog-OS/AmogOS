@@ -85,7 +85,8 @@ https://discord.gg/k4d24VaAJN or Mail us over at amogos69420@gmail.com.
 # Credits:
 - Founder/UI Dev: Moon1789#6969 (https://moon1789.github.io/)
 - Main dev/Packager: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on AmogOS related content and call me sussy imposter :p)
-- Graphical designer: peekatchoo#0001
+- Graphical designer: peekatchoo#0001 (no longer helping us, but absolute chad)
+- App developer: felixisweird
 - Thanks to ! -Linkley Steals Your Kinky 2#2002 for hosting torrents
 - Thanks to JoJo Autoboy#1931 for being our overlord
 - Thanks to the jostroOS dev team for letting us use their GH org and website to host downloads!
