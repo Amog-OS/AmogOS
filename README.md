@@ -27,7 +27,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 `chad AmogOS vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
 ## Installation Notes:
-**We are not resposible for ANY KIND DATA LOSS or any kind of problem not relating to AMOGOS.**
+**We are not resposible for ANY KIND DATA LOSS or any kind of problem not relating to AMOGOS , USE THIS AT YOUR OWN RISK**
 
 NOTE: We have both Raspberry Pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names in their respective releases.  
 
@@ -86,7 +86,6 @@ https://discord.gg/k4d24VaAJN
 - Founder/UI Dev: Moon1789#6969 (https://moon1789.github.io/)
 - Main dev/Packager: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on AmogOS related content and call me sussy imposter :p)
 - Graphical designer: peekatchoo#0001
-- Helper: Santosh#0007 (https://www.youtube.com/channel/UC3VzPfATMFg1i9X33wzfdlA)
 - Thanks to ! -Linkley Steals Your Kinky 2#2002 for hosting torrents
 - Thanks to JoJo Autoboy#1931 for being our overlord
 - Thanks to the jostroOS dev team for letting us use their GH org and website to host downloads!
