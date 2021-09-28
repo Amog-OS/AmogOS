@@ -13,7 +13,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 -[Testing AmogOS](#Testing-AmogOS)  <br>
 -[Website](#Website)  
 -[Merch](#Merch)  
--[Support](#Get-support-on-Discord)  
+-[Support](#Support)  
 -[Features](#Features)  
 -[Additional Notes](#Notes)  
 -[Credits](#Credits)  
@@ -52,8 +52,8 @@ https://merch.jostroos.ml/
 
 If you wanna print your own stickers download them [here](https://cdn.discordapp.com/attachments/867502562953658428/867512035687530526/amog-icon.png) and [here](https://cdn.discordapp.com/attachments/867502562953658428/867871352035082300/amogoschip-sticker.png)
 
-## Get support on Discord:
-https://discord.gg/k4d24VaAJN
+## Support
+https://discord.gg/k4d24VaAJN or Mail us over at amogos69420@gmail.com.
 
 ## Features:
 - Too sus.
