@@ -96,7 +96,7 @@ https://discord.gg/k4d24VaAJN or Mail us over at amogos69420@gmail.com.
 ### Software credits:
 AmogOS would not be possible without the following open source softwares:
 
-- Base OS  
+#### Base OS  
 
 Debian and RPI OS  
 
