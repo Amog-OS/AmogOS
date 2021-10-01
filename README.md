@@ -96,6 +96,7 @@ https://discord.gg/k4d24VaAJN or Mail us over at amogos69420@gmail.com.
 - Thanks to the jostroOS dev team for letting us use their GH org and website to host downloads!
 - Thanks to [Phene](https://phene.dev) for hosting a [mirror](https://storage.phene.dev/amogos) and touching up this document.
 - [sUs !1!1!](https://linustechtips.com/uploads/monthly_2021_03/1647043410_LinusWindowsXP.png.52fed85d600faa323ec2fa515d1b3ff7.png)
+
 (Note: Discord tags and names may change)
 
 ### Software credits
