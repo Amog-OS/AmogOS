@@ -4,7 +4,7 @@ For installation, you can choose the fast method via iso, or use the zip for man
 
 Fast installation:
 Download Universal USB Installer from pendrivelinux: https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/. 
-DO NOT use rufus or anything else because they arn't tested and guarenteed to work. 
+DO NOT use rufus or anything else because they aren't tested and guarenteed to work. 
 Find "AmogOS" at the top of the "Other Distros" section in Universal USB Installer, choose your spare USB stick (reccomended size > 2GB), download & choose the .iso file in the buttom of the release and click Create.
 
 Manual installation:
