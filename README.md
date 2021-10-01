@@ -31,7 +31,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 - `chad AmogOS vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
 ## Installation Notes:
-**We are not resposible for ANY KIND DATA LOSS or any kind of problem not relating to AMOGOS, USE THIS AT YOUR OWN RISK**
+**We are not resposible for ANY KIND OF DATA LOSS or any kind of problem not relating to AMOGOS, USE THIS AT YOUR OWN RISK**
 
 NOTE: We have both Raspberry Pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names in their respective releases.  
 
