@@ -15,7 +15,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 - [Merch](#Merch)  
 - [Support](#Support)  
 - [Features](#Features)  
-- [Additional Notes](#Notes)  
+- [Additional notes](#Notes)  
 - [Credits](#Credits)  
 - [Donation](#Donation)  
 - [Wallpapers](https://github.com/jostroOS/AmogOS-Wallpapers)  
