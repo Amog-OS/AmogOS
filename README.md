@@ -21,10 +21,14 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 - [Wallpapers](https://github.com/jostroOS/AmogOS-Wallpapers)  
 
 ## Testimonies:
-`sussy wussy` -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)  
-`I'm pretty sure AmogOS has broken Mutahar's mental state and now he only says "sussy wussy" in like a really weird voice` -[Raspberry Pi News (developer)](https://www.youtube.com/watch?v=jiQVuhNiTZ0)  
-`why did I even make this os` -[Moon 1789 (founder)](https://www.youtube.com/watch?v=hkzYIwMYds8)  
-`chad AmogOS vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
+
+- `sussy wussy` -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)
+  
+- `I'm pretty sure AmogOS has broken Mutahar's mental state and now he only says "sussy wussy" in like a really weird voice` -[Raspberry Pi News (developer)](https://www.youtube.com/watch?v=jiQVuhNiTZ0)
+  
+- `why did I even make this os` -[Moon 1789 (founder)](https://www.youtube.com/watch?v=hkzYIwMYds8)
+  
+- `chad AmogOS vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
 ## Installation Notes:
 **We are not resposible for ANY KIND DATA LOSS or any kind of problem not relating to AMOGOS , USE THIS AT YOUR OWN RISK**
