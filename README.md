@@ -112,7 +112,9 @@ AmogOS would not be possible without the following open source software:
 - LXDE for DE  
 - xcompmgr for effects  
 - Lightpad for the launchpad thing  
-- xfce4-panel for dock and the panel  
+- xfce4-panel for dock and the panel
+
+-KDE Plasma 5 Version coming soon...  
 
 #### Misc  
 
