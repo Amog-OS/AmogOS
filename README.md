@@ -31,33 +31,33 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 - `chad AmogOS vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
 ## Installation Notes
-**We are not resposible for ANY KIND OF DATA LOSS or any kind of problem not relating to AMOGOS, USE THIS AT YOUR OWN RISK**
+- **We are not resposible for ANY KIND OF DATA LOSS or any kind of problem not relating to AMOGOS, USE THIS AT YOUR OWN RISK**
 
-NOTE: We have both Raspberry Pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names in their respective releases.  
+- NOTE: We have both Raspberry Pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names in their respective releases.  
 
-For x64 users: It takes like a whole 69420 secs to load the UI from usb boot so be patient!
+- For x64 users: It takes like a whole 69420 secs to load the UI from usb boot so be patient!
 
-For RPI users: SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR/BOOT ISSUE.
+- For RPI users: SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR/BOOT ISSUE.
 
 ## Install
-**Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html.**
+- **Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html.**
 
-(please note that by downloading AmogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to [Here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
+- (please note that by downloading AmogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to [Here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
 
 ## Testing AmogOS
 You can run AmogOS online without installing at DistroTest: https://distrotest.net/AmogOS/.
 
 ## Website
-Our website is at https://www.jostroos.ml/amogos, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our parent OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.jostroos.ml/amogos/startpage/.
+- Our website is at https://www.jostroos.ml/amogos, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our parent OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.jostroos.ml/amogos/startpage/.
 
 ## Merch
-Now stocking very sus stickers (we priced it as cheap as possible so pls buy some my family is starving from the among us skins I'm purchasing). (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping). 
+- Now stocking very sus stickers (we priced it as cheap as possible so pls buy some my family is starving from the among us skins I'm purchasing). (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping). 
 https://merch.jostroos.ml/ 
 
-If you wanna print your own stickers download them [here](https://cdn.discordapp.com/attachments/867502562953658428/867512035687530526/amog-icon.png) and [here](https://cdn.discordapp.com/attachments/867502562953658428/867871352035082300/amogoschip-sticker.png)
+- If you wanna print your own stickers download them [here](https://cdn.discordapp.com/attachments/867502562953658428/867512035687530526/amog-icon.png) and [here](https://cdn.discordapp.com/attachments/867502562953658428/867871352035082300/amogoschip-sticker.png)
 
 ## Support
-https://discord.gg/k4d24VaAJN or Mail us over at amogos69420@gmail.com.
+- https://discord.gg/k4d24VaAJN or Mail us over at amogos69420@gmail.com.
 
 ## Features
 - Too sus.
