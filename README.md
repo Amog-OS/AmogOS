@@ -35,12 +35,10 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 
 - (please note that by downloading AmogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to [Here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
 
-## Testing AmogOS
-- Now You can test out AmogOS online without installing at DistroTest: https://distrotest.net/AmogOS/.
+You can also test out AmogOS (legacy) online without installing at DistroTest: https://distrotest.net/AmogOS/.
 
 ## Website
 - Our website is at https://www.jostroos.ml/amogos, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our parent OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.jostroos.ml/amogos/startpage/.
-just 
 
 - If you wanna print your own stickers download them [here](https://cdn.discordapp.com/attachments/867502562953658428/867512035687530526/amog-icon.png) and [here](https://cdn.discordapp.com/attachments/867502562953658428/867871352035082300/amogoschip-sticker.png)
 
