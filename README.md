@@ -126,4 +126,4 @@ AmogOS would not be possible without the following open source software:
 And to Innersloth, for making one of the most famous and memed games of 2020 and onwards.  
 
 ### Donation
-Donations are currently closed for now.profet
+Donations are currently closed for now.
