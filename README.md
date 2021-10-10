@@ -87,6 +87,7 @@ https://merch.jostroos.ml/
 
 # Credits
 - Founder/UI Dev: Moon1789#6969 (https://moon1789.github.io/)
+- Main dev: Vilaverde
 - Former dev/Packager: RPiNews#0816
 - Graphical designer: peekatchoo#0001 (no longer helping us, but absolute chad)
 - App developer: felixisweird
