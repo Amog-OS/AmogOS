@@ -24,20 +24,11 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 
 - `sussy wussy` -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)
   
-- `I'm pretty sure AmogOS has broken Mutahar's mental state and now he only says "sussy wussy" in like a really weird voice` -[Raspberry Pi News (developer)](https://www.youtube.com/watch?v=jiQVuhNiTZ0)
+- `I'm pretty sure AmogOS has broken Mutahar's mental state and now he only says "sussy wussy" in like a really weird voice` -[Nooz](https://www.youtube.com/watch?v=jiQVuhNiTZ0)
   
 - `why did I even make this os` -[Moon 1789 (founder)](https://www.youtube.com/watch?v=hkzYIwMYds8)
   
 - `chad AmogOS vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
-
-## Installation Notes
-- **We are not resposible for ANY KIND OF DATA LOSS or any kind of problem not relating to AMOGOS, USE THIS AT YOUR OWN RISK**
-
-- NOTE: We have both Raspberry Pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names in their respective releases.  
-
-- For x64 users: It takes like a whole 69420 secs to load the UI from usb boot so be patient!
-
-- For RPI users: SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR/BOOT ISSUE.
 
 ## Install
 - **Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html.**
@@ -50,45 +41,31 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 ## Website
 - Our website is at https://www.jostroos.ml/amogos, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our parent OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.jostroos.ml/amogos/startpage/.
 just 
-## Merch
-- Now stocking very sus stickers (we priced it as cheap as possible so pls buy some my family is starving from the among us skins I'm purchasing). (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping). 
-https://merch.jostroos.ml/ 
 
 - If you wanna print your own stickers download them [here](https://cdn.discordapp.com/attachments/867502562953658428/867512035687530526/amog-icon.png) and [here](https://cdn.discordapp.com/attachments/867502562953658428/867871352035082300/amogoschip-sticker.png)
 
 ## Support
-- https://discord.gg/ or email us over at amogos69420@gmail.com.
+- Contact us in our Discord at https://discord.gg/UAxazHsQX8 for specific support. Post an Issue on GitHub for anything else. **The RPi/ARM builds are discontinued, and you will not receive support for them.**
 
 ## Features
 - Too sus.
 - Custom wallpapers and start menu icon that can be found in `~/Pictures/.amogOS/`.
 - Grey color palette to match Among Us.
 - Custom neofetch logo.
-- [MCPI Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn) (It's recommended you use the included `gMCPIL` launcher to launch the game).
 - Uses Openbox WM and LXDE, allowing you to switch to 2 desktop spaces with the scroll wheel, similar to macOS.
 - [among-sus](https://git.sr.ht/~martijnbraam/among-sus), an open-source among us alternative playable in terminal (use `among-sus-server` to host a localhost server and `among-sus` to connect to a server hosted on the current device, or `nc <ip on your LAN network>` to join a game on your network).
 - [DollarSkip](https://github.com/CleanMachine1/DollarSkip), a simple C app to ignore `$` signs inputted at the start of a command, for copying commands from online tutorials.
 - ncdu and tldr.
-- Pi-Apps x86 for x64 build.
-
-### RPI only features, not present on x86_64 build
-- 64-bit kernel enabled by default for speed, as well as to enable Wine support on RPI 3.
-- Preinstall CommanderPi, piwiz, Box86, Pi Power Tools, pi-apps, Colour Emoji Font, Stacer, legendary launcher (to replace Epic Games Launcher), and preinstall a 64-bit container to run aarch64 apps.
-- Wine + box86 preinstalled for x86 windows syscall translation.
-- piKiss and Pi-Apps preinstalled so you can install some games and also A M O N G U S.
-(Among Us will run at ~5 fps on multiplayer play. It runs rather poorly, but for a game never intended to run on a CPU the size of a thumb with 2 layers of syscall translation (x86 windows -> x86 linux -> arm linux), it's decent. A small resolution is needed for the game to run without poor framerates).
-- You can overclock your RPI with Commander Pi to get slightly more performace.
 
 ## Notes
-- (RPI version only) You can use [vdesktop](https://github.com/Botspot/vdesktop) to test out the OS in a container without any lag and flashing needed on an ARM host.
-- (RPI version only) Default username is "pi" and password is "raspberry".
-- (x86 version only) Default username is "amogos" and password is "amogos".
-- **AmogOS is not a custom OS, it's just riced RPi OS/Debian Bullseye for RPI and x64 versions respectively. It doesn't have any custom written source code.**
+
+- Default username is "amogos" and password is "amogos".
+- **All versions before 1.3.0 are simply a modified re-image of Debian, and do not contain any source code beyond simple shell scripts that can be accessed by unpacking the rootfs yourself.**
 
 # Credits
 - Founder/UI Dev: Moon1789#6969 (https://moon1789.github.io/)
-- Main dev: Vilaverde
-- Former dev/Packager: RPiNews#0816
+- Main dev: HVilaverde
+- Legacy packager (< 1.3.0): Nooz
 - Graphical designer: peekatchoo#0001 (no longer helping us, but absolute chad)
 - App developer: felixisweird
 - Thanks to Linkley Steals Your Kinky 2#4642 for hosting torrents
@@ -104,26 +81,33 @@ AmogOS would not be possible without the following open source software:
 
 #### Base OS  
 
-- Debian and RPI OS  
+- Debian Stable
 
 #### UI  
 
 - Openbox WM  
-- LXDE for DE  
+- LXDE
 - xcompmgr for effects  
 - Lightpad for the launchpad thing  
 - xfce4-panel for dock and the panel
 
--KDE Plasma 5 Version coming soon...  
+#### Legal
+
+**THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS "AS-IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED.  IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.**
 
 #### Misc  
 
-- https://github.com/sueperb/tasty-grubs for the x64 GRUB theme  
-- https://linux-live.org/ our x64 build packager  
-- https://github.com/Botspot/Pi-Power-Tools and https://www.raspberrypi.org/forums/viewtopic.php?t=247568 for packaging the RPI builds  
-- [Insert the names of all the apps included that im too lazy to type]  
+- Thanks to https://github.com/sueperb/tasty-grubs for the x64 GRUB theme  
+- Check out https://linux-live.org/, our imager.  
 
-And to Innersloth, for making one of the most famous and memed games of 2020 and onwards.  
-
-### Donation
-Donations are currently closed for now.
+And thanks to Innersloth, for making one of the most famous and memed games of 2020 and onwards.  
