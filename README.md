@@ -91,7 +91,7 @@ AmogOS would not be possible without the following open source software:
 - Lightpad for the launchpad thing  
 - xfce4-panel for dock and the panel
 
-#### Legal
+## Legal
 
 **THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS "AS-IS" AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
@@ -105,7 +105,7 @@ LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
 OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 SUCH DAMAGE.**
 
-#### Misc  
+## Misc  
 
 - Thanks to https://github.com/sueperb/tasty-grubs for the x64 GRUB theme  
 - Check out https://linux-live.org/, our imager.  
