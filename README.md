@@ -89,7 +89,7 @@ https://merch.jostroos.ml/
 
 # Credits
 - Founder/UI Dev: Moon1789#6969 (https://moon1789.github.io/)
-- Main dev/Packager: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on AmogOS related content and call me sussy impostor :p)
+- Former dev/Packager: RPiNews#0816
 - Graphical designer: peekatchoo#0001 (no longer helping us, but absolute chad)
 - App developer: felixisweird
 - Thanks to Linkley Steals Your Kinky 2#4642 for hosting torrents
