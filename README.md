@@ -1,3 +1,5 @@
+## NOTE: the project is now probably dead (thanks nooz)
+
 ## AmogOS
 An Among Us-inspired OS ඞ. (pronounced A-mog-O-S)
 
