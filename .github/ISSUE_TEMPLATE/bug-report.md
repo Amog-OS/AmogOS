@@ -3,7 +3,7 @@ name: Bug Report
 about: Create a report to help us improve AmogOS
 title: "[BUG]"
 labels: bug
-assignees: ''
+assignees: HVilaverde
 
 ---
 
