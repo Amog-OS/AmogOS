@@ -126,11 +126,4 @@ AmogOS would not be possible without the following open source software:
 And to Innersloth, for making one of the most famous and memed games of 2020 and onwards.  
 
 ### Donation
-Donate to our opencollective, all funds spending is transparent so you know what we do with your generous donations! https://opencollective.com/amogos (we are 2 broke high schoolers pls donate or become sus)
-
-- Duino Coin: `rpinews` & `moon1789`
-- Bitcoin: bc1qs0vg6a4plfqzhtg9nq0wgyltrv9ghlaymyug8q
-- Tron: THAM7LmhrsaDrQULdaKBsnKs6S537DiCAk
-- Ethereum: 0x31A1DF3654c2827E77e2426E88c9Ec22ab701D5A
-- Doge: D6zggTnSXcp6iByip71XC9qT1DdH8fdftB
-- (peek slap your donation adresses here)
+Donations are currently closed for now.profet
