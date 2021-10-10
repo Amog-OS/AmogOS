@@ -84,7 +84,6 @@ https://merch.jostroos.ml/
 - (RPI version only) Default username is "pi" and password is "raspberry".
 - (x86 version only) Default username is "amogos" and password is "amogos".
 - **AmogOS is not a custom OS, it's just riced RPi OS/Debian Bullseye for RPI and x64 versions respectively. It doesn't have any custom written source code.**
-- **AmogOS will never be based off OpenSUSe.**
 
 # Credits
 - Founder/UI Dev: Moon1789#6969 (https://moon1789.github.io/)
