@@ -29,8 +29,8 @@ AmogOS is a meme OS based on the hit game Among Us, in the same vain as Hannah M
 
 ## Install
 - **Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html.**
-- You can also download the files from <a href="https://storage.phene.dev/amogos/">Phene's Mirror</a>
-- You can also test out AmogOS (legacy) online without installing at DistroTest: https://distrotest.net/AmogOS/.
+- You can also download the files from <a href="https://storage.phene.dev/amogos/">Phene's Mirror.</a>
+- You can test out AmogOS (legacy) online without installing at DistroTest: https://distrotest.net/AmogOS/.
 
 ## Website
 - Our website is at https://www.jostroos.ml/amogos, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our parent OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.jostroos.ml/amogos/startpage/.
