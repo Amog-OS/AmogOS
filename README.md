@@ -41,7 +41,7 @@ You can also test out AmogOS (legacy) online without installing at DistroTest: h
 - Contact us in our Discord at https://discord.gg/UAxazHsQX8 for specific support. Post an Issue on GitHub for anything else. **The RPi/ARM builds are discontinued, and you will not receive support for them.**
 
 ## Features
-- Extendable via Slax modules. Is a meme distro, but can be used seriously.
+- Extendable via Slax modules. This is a meme distro, but can be used seriously.
 - Aims for POSIX-compliance, POSIXLY_CORRECT is set by default.
 - Multimedia and Office suite.
 - Usability focus.
