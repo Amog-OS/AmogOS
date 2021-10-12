@@ -26,10 +26,10 @@ AmogOS is a meme OS based on the hit game Among Us, in the same vain as Hannah M
 - ` [...] Chad AmogOS vs bloated mainstream distro.` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
 ## Install
-Download from the GitHub releases page. You can also download the files from <a href="https://storage.phene.dev/amogos/">Phene's Mirror.</a>
+Download from the GitHub releases page. You can also download the files from <a href="https://storage.phene.dev/amogos/">Phene's Mirror</a>.
 
 ## Support
-Post an issue on GitHub for support. **The RPi/ARM builds are discontinued, and you will not receive support for them. See issue [69 (nice)](https://github.com/LeenuxDev/AmogOS/issues/69) for more about the discontinuation.**
+[Post an issue](https://github.com/LeenuxDev/AmogOS/issues/new/choose) on GitHub for support. **The RPi/ARM builds are discontinued, and you will not receive support for them. See issue [69 (nice)](https://github.com/LeenuxDev/AmogOS/issues/69) for more about the discontinuation.**
 
 ## Features
 - Extendable via Slax modules. This is a meme distro, but can be used seriously.
