@@ -81,7 +81,7 @@ AmogOS would not be possible without the following open source software:
 
 ## Legal
 
-AmogOS is Licensed under the "I am Based and Not Sussy License", Version 1. Check LICENSE.md for more information.
+AmogOS is Licensed under the "I am Based and Not Sussy License", Version 1. Check LICENSE for more information.
 
 ## Misc  
 
