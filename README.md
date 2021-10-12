@@ -81,7 +81,7 @@ AmogOS would not be possible without the following open source software:
 
 ## Legal
 
-AmogOS GNU/Linux
+AmogOS GNU/Linux  
 Copyright (C) 2021, The AmogOS Contributors.
 
 This program is free software: you can redistribute it and/or modify
