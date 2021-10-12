@@ -7,9 +7,9 @@ An Among Us-inspired OS ඞ. (pronounced A-mog-O-S)
 
 AmogOS is a meme OS based on the hit game Among Us, in the same vain as Hannah Montana Linux, but it's also developed and made to be a highly efficient, modular and useable Operating System that can be ran in a production environment. It is extendable via SLAX modules, and is soon planned to include a modular system security update scheme.
 
-## Table of Contents (For lazy ppl who dont wanna scroll):
+## Table of Contents:
 - [Testimonies](#Testimonies)  
-- [Shut up, how do I install it](#Install) <br>
+- [Installing](#Install) <br>
 - [Testing AmogOS](#Testing-AmogOS)  <br>
 - [Website](#Website)  
 - [Support](#Support)  
@@ -23,17 +23,15 @@ AmogOS is a meme OS based on the hit game Among Us, in the same vain as Hannah M
 
 - `sussy wussy` -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)
   
-- `why did I even make this os` -[Moon 1789 (founder)](https://www.youtube.com/watch?v=hkzYIwMYds8)
-  
-- `chad AmogOS vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
+- ` [...] Chad AmogOS vs bloated mainstream distro.` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
 ## Install
 - **Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html.**
 - You can also download the files from <a href="https://storage.phene.dev/amogos/">Phene's Mirror.</a>
-- You can test out AmogOS (legacy) online without installing at DistroTest: https://distrotest.net/AmogOS/.
 
 ## Website
-- Our website is at https://www.jostroos.ml/amogos, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our parent OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.jostroos.ml/amogos/startpage/.
+- Our website is at https://www.jostroos.ml/amogos, designed by our web developer Fengzi. 
+- AmogOS' existence is the sole result of technology sharing with [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.jostroos.ml/amogos/startpage/.
 
 - If you wanna print your own stickers download them [here](https://cdn.discordapp.com/attachments/867502562953658428/867512035687530526/amog-icon.png) and [here](https://cdn.discordapp.com/attachments/867502562953658428/867871352035082300/amogoschip-sticker.png)
 
@@ -54,17 +52,13 @@ AmogOS is a meme OS based on the hit game Among Us, in the same vain as Hannah M
 - **All versions before 1.3.0 are simply a modified re-image of Debian, and do not contain any source code beyond simple shell scripts that can be accessed by unpacking the rootfs yourself.**
 
 # Credits
-- Founder/UI Dev: Moon1789#6969 (https://moon1789.github.io/)
-- Main dev: HVilaverde
-- Legacy packager (< 1.3.0): Nooz
-- Graphical designer: peekatchoo#0001 (no longer helping us, but absolute chad)
-- Thanks to Linkley Steals Your Kinky 2#4642 for hosting torrents
-- Thanks to JoJo Autoboy#1931 for being our overlord
-- Thanks to the jostroOS dev team for letting us use their website to host downloads!
-- Thanks to [Phene](https://phene.dev) for hosting a [mirror](https://storage.phene.dev/amogos) and touching up this document.
-- [sUs !1!1!](https://linustechtips.com/uploads/monthly_2021_03/1647043410_LinusWindowsXP.png.52fed85d600faa323ec2fa515d1b3ff7.png)
+- Core Developer: HVilaverde
+- Web Development: Duck / Fengzi
+- Torrent Hosting: Linkley
+- Mirror Hosting and Docs: [Phene](https://phene.dev)
+- Jostro and AmogOS tech sharing: JoJo Autoboy
 
-(Note: Discord tags and names may change)
+Thanks to the following Legacy developers who set the foundation for AmogOS: Peekatchoo (Graphics), Nooz (Packager), Moon (UI)
 
 ### Software credits
 AmogOS would not be possible without the following open source software:
@@ -100,4 +94,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 - Check out https://linux-live.org/, our imager.  
 
-And thanks to Innersloth, for making one of the most famous and memed games of 2020 and onwards.  
+Thanks to Innersloth, for making one of the most famous and memed games of 2020 and onwards.  
