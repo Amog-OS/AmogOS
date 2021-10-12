@@ -33,7 +33,7 @@ AmogOS is a meme OS based on the hit game Among Us, in the same vain as Hannah M
 - Our website is at https://www.jostroos.ml/amogos, designed by our web developer Fengzi. 
 - AmogOS' existence is the sole result of technology sharing with [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.jostroos.ml/amogos/startpage/.
 
-- If you wanna print your own stickers download them [here](https://cdn.discordapp.com/attachments/867502562953658428/867512035687530526/amog-icon.png) and [here](https://cdn.discordapp.com/attachments/867502562953658428/867871352035082300/amogoschip-sticker.png)
+- If you want to print your own stickers download them [here](https://cdn.phene.dev/amogos-stickers.zip)
 
 ## Support
 - Contact us in our Discord at https://discord.gg/UAxazHsQX8 for specific support. Post an Issue on GitHub for anything else. **The RPi/ARM builds are discontinued, and you will not receive support for them. See issue [69 (haha)](https://github.com/LeenuxDev/AmogOS/issues/69) for more about the discontinuation.**
