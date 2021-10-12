@@ -38,7 +38,7 @@ AmogOS is a meme OS based on the hit game Among Us, in the same vain as Hannah M
 - If you wanna print your own stickers download them [here](https://cdn.discordapp.com/attachments/867502562953658428/867512035687530526/amog-icon.png) and [here](https://cdn.discordapp.com/attachments/867502562953658428/867871352035082300/amogoschip-sticker.png)
 
 ## Support
-- Contact us in our Discord at https://discord.gg/UAxazHsQX8 for specific support. Post an Issue on GitHub for anything else. **The RPi/ARM builds are discontinued, and you will not receive support for them.**
+- Contact us in our Discord at https://discord.gg/UAxazHsQX8 for specific support. Post an Issue on GitHub for anything else. **The RPi/ARM builds are discontinued(for now), and you will not receive support for them.**
 
 ## Features
 - Extendable via Slax modules. This is a meme distro, but can be used seriously.
