@@ -26,17 +26,10 @@ AmogOS is a meme OS based on the hit game Among Us, in the same vain as Hannah M
 - ` [...] Chad AmogOS vs bloated mainstream distro.` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
 ## Install
-- **Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html.**
-- You can also download the files from <a href="https://storage.phene.dev/amogos/">Phene's Mirror.</a>
-
-## Website
-- Our website is at https://www.jostroos.ml/amogos, designed by our web developer Fengzi. 
-- AmogOS' existence is the sole result of technology sharing with [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.jostroos.ml/amogos/startpage/.
-
-- If you want to print your own stickers download them [here](https://cdn.phene.dev/amogos-stickers.zip)
+Download from the GitHub releases page. You can also download the files from <a href="https://storage.phene.dev/amogos/">Phene's Mirror.</a>
 
 ## Support
-- Contact us in our Discord at https://discord.gg/UAxazHsQX8 for specific support. Post an Issue on GitHub for anything else. **The RPi/ARM builds are discontinued, and you will not receive support for them. See issue [69 (haha)](https://github.com/LeenuxDev/AmogOS/issues/69) for more about the discontinuation.**
+Post an issue on GitHub for support. **The RPi/ARM builds are discontinued, and you will not receive support for them. See issue [69 (nice)](https://github.com/LeenuxDev/AmogOS/issues/69) for more about the discontinuation.**
 
 ## Features
 - Extendable via Slax modules. This is a meme distro, but can be used seriously.
@@ -53,12 +46,7 @@ AmogOS is a meme OS based on the hit game Among Us, in the same vain as Hannah M
 
 # Credits
 - Core Developer: HVilaverde
-- Web Development: Duck / Fengzi
-- Torrent Hosting: Linkley
 - Mirror Hosting and Docs: [Phene](https://phene.dev)
-- Jostro and AmogOS tech sharing: JoJo Autoboy
-
-Thanks to the following Legacy developers who set the foundation for AmogOS: Peekatchoo (Graphics), Nooz (Packager), Moon (UI)
 
 ### Software credits
 AmogOS would not be possible without the following open source software:
