@@ -1,7 +1,7 @@
 ## AmogOS
 An Among Us-inspired OS ඞ. (pronounced A-mog-O-S)
 
-<img src="https://i.postimg.cc/vmF8tTVH/120727498-ecfc5e00-c497-11eb-9f92-a1b99318fee1.png"/> <img src="https://i.postimg.cc/m2Ym9qXt/130533968-d797e83d-e643-4c62-9264-7d46c2b67b48.png"/>
+![VirtualBox_AmogOS 2_11_10_2021_10_46_51](https://user-images.githubusercontent.com/68126718/136875158-9019cfc8-a63f-49f5-8963-674b20757692.png)
 
 ## General Info:  
 
