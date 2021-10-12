@@ -60,7 +60,7 @@ AmogOS is a meme OS based on the hit game Among Us, in the same vain as Hannah M
 - Graphical designer: peekatchoo#0001 (no longer helping us, but absolute chad)
 - Thanks to Linkley Steals Your Kinky 2#4642 for hosting torrents
 - Thanks to JoJo Autoboy#1931 for being our overlord
-- Thanks to the jostroOS dev team for letting us use their GH org and website to host downloads!
+- Thanks to the jostroOS dev team for letting us use their website to host downloads!
 - Thanks to [Phene](https://phene.dev) for hosting a [mirror](https://storage.phene.dev/amogos) and touching up this document.
 - [sUs !1!1!](https://linustechtips.com/uploads/monthly_2021_03/1647043410_LinusWindowsXP.png.52fed85d600faa323ec2fa515d1b3ff7.png)
 
