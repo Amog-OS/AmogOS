@@ -1,9 +1,0 @@
-PRETTY_NAME="AmogOS GNU/Linux 2 (Xenial Xdiv)"
-NAME="AmogOS GNU/Linux"
-VERSION_ID="2"
-VERSION="2 (Xenial Xdiv)"
-VERSION_CODENAME=xenial
-ID=amogos
-HOME_URL="https://github.com/JostroOS/AmogOS"
-SUPPORT_URL="https://github.com/jostroOS/AmogOS/issues"
-BUG_REPORT_URL="https://github.com/jostroOS/AmogOS/issues"
