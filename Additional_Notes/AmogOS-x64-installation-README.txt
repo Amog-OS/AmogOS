@@ -1,6 +1,6 @@
 Getting started:
 Every release contains a iso and a zip. First, find the newest release at the top of https://github.com/jostroOS/AmogOS/releases.
-For installation, you can choose the fast method via iso, or use the zip for manual installation if you are using a CD, if the fast method won't work, or if you are using a Linux PC.
+For installation, you can choose the fast method via iso, or use the zip for manual installation if you are using a CD, if the fast method won't work, or if you are using a Linux system and can't run Universal USB Installer's exe file.
 
 Fast installation:
 Download Universal USB Installer from pendrivelinux: https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/. 
