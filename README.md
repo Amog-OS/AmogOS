@@ -116,8 +116,8 @@ AmogOS would not be possible without the following open source software:
 #### Misc  
 
 - https://github.com/sueperb/tasty-grubs for the x64 GRUB theme  
-- https://linux-live.org/ our x64 build packager  
-- https://github.com/Botspot/Pi-Power-Tools and https://www.raspberrypi.org/forums/viewtopic.php?t=247568 for packaging the RPI builds  
+- https://linux-live.org/ our x64 build packager
+- https://github.com/Botspot/Pi-Power-Tools and https://www.raspberrypi.org/forums/viewtopic.php?t=247568, pishrink and gnome-disks for packaging the RPI builds  
 - [Insert the names of all the apps included that im too lazy to type]  
 
 And to Innersloth, for making one of the most famous and memed games of 2020 and onwards.  
