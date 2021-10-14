@@ -69,7 +69,7 @@ https://merch.jostroos.ml/
 - [among-sus](https://git.sr.ht/~martijnbraam/among-sus), an open-source among us alternative playable in terminal (use `among-sus-server` to host a localhost server and `among-sus` to connect to a server hosted on the current device, or `nc <ip on your LAN network>` to join a game on your network).
 - [DollarSkip](https://github.com/CleanMachine1/DollarSkip), a simple C app to ignore `$` signs inputted at the start of a command, for copying commands from online tutorials.
 - ncdu and tldr.
-- Pi-Apps x86 for x64 build.
+- Pi-Apps x86 for the x64 build.
 
 ### RPI only features, not present on x86_64 build
 - 64-bit kernel enabled by default for speed, as well as to enable Wine support on RPI 3.
@@ -83,7 +83,7 @@ https://merch.jostroos.ml/
 - (RPI version only) You can use [vdesktop](https://github.com/Botspot/vdesktop) to test out the OS in a container without any lag and flashing needed on an ARM host.
 - (RPI version only) Default username is "pi" and password is "raspberry".
 - (x86 version only) Default username is "amogos" and password is "amogos".
-- **AmogOS is not a custom OS, it's just riced RPi OS/Debian Bullseye for RPI and x64 versions respectively. It doesn't have any custom written source code.**
+- **AmogOS is not a custom OS, it's just riced RPi OS/Debian Bullseye for RPI and x64 versions respectively. It doesn't have any custom written source code. You can mount the squashfs .sb file and look at the rootfs yourself**
 
 # Credits
 - Founder/UI Dev: Moon1789#6969 (https://moon1789.github.io/)
