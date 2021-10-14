@@ -42,7 +42,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 ## Install
 - **Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html.**
 
-- (please note that by downloading AmogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to [Here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
+- (please note that by downloading AmogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
 
 ## Testing AmogOS
 - Now You can test out AmogOS online without installing at DistroTest: https://distrotest.net/AmogOS/.
@@ -110,6 +110,8 @@ AmogOS would not be possible without the following open source software:
 - Lightpad for the launchpad thing  
 - xfce4-panel for dock and the panel
 - panther launcher for start menu
+- arc-grey-darker theme
+- paypirus icon theme
 
 #### Misc  
 
