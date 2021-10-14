@@ -1,9 +1,9 @@
 ---
-name: Bug Report
-about: Create a report to help us improve AmogOS
-title: "[BUG]"
+name: RPI Build bug report
+about: Create a report to help us improve the RPi build
+title: "[RPI Bug] "
 labels: bug
-assignees: HVilaverde
+assignees: ''
 
 ---
 
@@ -24,8 +24,8 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - Version [e.g. 1.2.0]
- - PC Specs
+ - RPi Model [e.g. RPi 4 2gb]
+ - Version [e.g. 22]
 
 **Additional context**
 Add any other context about the problem here.
