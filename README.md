@@ -89,7 +89,7 @@ https://merch.jostroos.ml/
 - Founder/UI Dev: Moon1789#6969 (https://moon1789.github.io/)
 - Main dev/Packager: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on AmogOS related content and call me sussy impostor :p)
 - Graphical designer: peekatchoo#0001 (no longer helping us, but absolute chad)
-- Thanks to Linkley Steals Your Kinky 2#4642 for hosting torrents
+- Thanks to !   !Linkley Steals Your Kinky 2#4642 for hosting torrents
 - Thanks to JoJo Autoboy#1931 for being our overlord
 - [sUs !1!1!](https://linustechtips.com/uploads/monthly_2021_03/1647043410_LinusWindowsXP.png.52fed85d600faa323ec2fa515d1b3ff7.png)
 
