@@ -18,7 +18,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 - [Additional notes](#Notes)  
 - [Credits](#Credits)  
 - [Donation](#Donation)  
-- [Wallpapers](https://github.com/jostroOS/AmogOS-Wallpapers)  
+- [Wallpapers](https://github.com/Amog-OS/AmogOS-Wallpapers)  
 
 ## Testimonies
 
@@ -40,7 +40,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 - For RPI users: SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR/BOOT ISSUE.
 
 ## Install
-- **Grab install instructions and the download links here on our website: https://www.jostroos.ml/amogos/install.html.**
+- **Grab install instructions and the download links here on our website: https://www.amogos.studio/install.html.**
 
 - (please note that by downloading AmogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
 
@@ -48,11 +48,11 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 - Now You can test out AmogOS online without installing at DistroTest: https://distrotest.net/AmogOS/.
 
 ## Website
-- Our website is at https://www.jostroos.ml/amogos, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our partner OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.jostroos.ml/amogos/startpage/.
+- Our website is at https://www.amogos.studio, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our partner OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.amogos.studio/startpage/.
 just 
 ## Merch
 - Now stocking very sus stickers (we priced it as cheap as possible so pls buy some my family is starving from the among us skins I'm purchasing). (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping). 
-https://merch.jostroos.ml/ 
+https://merch.amogos.studio/ 
 
 - If you wanna print your own stickers download them [here](https://cdn.discordapp.com/attachments/867502562953658428/867512035687530526/amog-icon.png) and [here](https://cdn.discordapp.com/attachments/867502562953658428/867871352035082300/amogoschip-sticker.png)
 
