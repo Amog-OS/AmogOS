@@ -12,15 +12,20 @@ Find "AmogOS" at the top of the "Other Distros" section in Universal USB Install
 Download & extract the .zip and follow the instructions in the "Manual-Install-README.txt" file inside it to install the OS onto a spare USB stick.
 
 ## Post-install
-Boot it up by plugging it into a PC, and go into the BIOS to then choose your flashed boot media as the boot device. 
-In the boot menu, choose the "Live USB" option to boot the OS and have all your modififed files revert on reboot or the "persistance" option to have your changed files get written to the boot media and stay on reboot.
-:warning: If the screen resolution is off, click the "Display Settings" shortcut on the desktop and change resolutions until you find one that works for you. Also note that if the dock looks like it's positioning is broken, run `plank --preferences` in the terminal and change the position to "Bottom". You can also set the alignment to "Center" and manually change the spacing with the slider.
-Connect to internet via ethernet or wifi
-Update packages with "sudo apt update && sudo apt upgrade"
-Set timezone following https://linuxize.com/post/how-to-set-or-change-timezone-in-linux/
+- Boot it up by plugging it into a PC, and go into the BIOS to then choose your flashed boot media as the boot device.
+In the boot menu, choose the "Live USB" option to boot the OS and have all your modififed files revert on reboot or the "persistance" option to have your changed files get written to the boot media and stay on reboot.  
+
+- :warning: If the screen resolution is off, click the "Display Settings" shortcut on the desktop and change resolutions until you find one that works for you. Also note that if the dock looks like it's positioning is broken, run `plank --preferences` in the terminal and change the position to "Bottom". You can also set the alignment to "Center" and manually change the spacing with the slider.
+
+- Connect to internet via ethernet or wifi
+
+- Update packages with "sudo apt update && sudo apt upgrade"
+
+- Set timezone following https://linuxize.com/post/how-to-set-or-change-timezone-in-linux/
+
 Go wild, do what you want and make it your own!
 
-And remember, everyone is sus...
+And remember, everyone is sus... (this ascii art is so sus that it doesnt render properly)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣤⣤⣶⣦⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⡿⠛⠉⠙⠛⠛⠛⠛⠻⢿⣿⣷⣤⡀⠀⠀⠀⠀⠀
