@@ -49,7 +49,6 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 
 ## Website
 - Our website is at https://www.amogos.studio, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our partner OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.amogos.studio/startpage/.
-just 
 
 ## Merch
 - Now stocking very sus stickers (we priced it as cheap as possible so pls buy some my family is starving from the among us skins I'm purchasing). (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping). 
