@@ -85,7 +85,7 @@ https://merch.amogos.studio/
 - (x86 version only) Default username is "amogos" and password is "amogos".
 - **AmogOS is not a custom OS, it's just riced RPi OS/Debian Bullseye for RPI and x64 versions respectively. It doesn't have any custom written source code. You can mount the squashfs .sb file and look at the rootfs yourself**
 
-# Credits
+## Credits
 - Founder/UI Dev: Moon1789#6969 (https://moon1789.github.io/)
 - Main dev/Packager: RPiNews#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on AmogOS related content and call me sussy impostor :p)
 - Graphical designer: peekatchoo#0001 (no longer helping us, but absolute chad)
