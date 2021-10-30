@@ -9,13 +9,13 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 
 ## Table of Contents (For lazy ppl who dont wanna scroll)
 - [Testimonies](#Testimonies)  
-- [Shut up, how do I install it](#Install) <br>
+- [Shut up, how do I become sus](#Install) <br>
 - [Testing AmogOS](#Testing-AmogOS)  <br>
 - [Website](#Website)  
 - [Merch](#Merch)  
 - [Support](#Support)  
 - [Features](#Features)  
-- [Additional notes](#Notes)  
+- [Additional Notes](#Notes)  
 - [Credits](#Credits)  
 - [Donation](#Donation)  
 - [Wallpapers](https://github.com/Amog-OS/AmogOS-Wallpapers)  
