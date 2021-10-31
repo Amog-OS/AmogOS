@@ -45,7 +45,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 - (please note that by downloading AmogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
 
 ## Testing AmogOS
-- Now you can test out AmogOS online without downloading it at DistroTest: https://distrotest.net/AmogOS/. (note that DistroTest is just slow, AmogOS actually runs extremely well even on my old 2013 laptop)
+- Now you can test out AmogOS online without downloading it at DistroTest: https://distrotest.net/AmogOS/. (note that DistroTest just has high latency, AmogOS actually runs extremely well even on my old 2013 laptop so get rekt Ubuntu)
 
 ## Website
 - Our website is at https://www.amogos.studio, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our partner OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.amogos.studio/startpage/.
@@ -123,11 +123,13 @@ AmogOS would not be possible without the following open source software:
 And to Innersloth, for making one of the most famous and memed games of 2020 and onwards.  
 
 ### Donation
-Donate to our opencollective, all funds spending is transparent so you know what we do with your generous donations! We also support most major cryptos https://opencollective.com/amogos (we are 2 broke high schoolers pls donate or become sus)
+Donate to our opencollective, all funds spending is transparent so you know what we do with your generous donations! We also support crypto https://opencollective.com/amogos (we are 2 broke high schoolers pls donate or become sus)
 
 #### Alternative donation methods
 - Duino Coin: `rpinews` & `moon1789`
-- Bitcoin: bc1qs0vg6a4plfqzhtg9nq0wgyltrv9ghlaymyug8q
-- Tron: THAM7LmhrsaDrQULdaKBsnKs6S537DiCAk
-- Ethereum: 0x31A1DF3654c2827E77e2426E88c9Ec22ab701D5A
-- Doge: D6zggTnSXcp6iByip71XC9qT1DdH8fdftB
+
+For crypto donations please use opencollective instead!
+~~- Bitcoin: bc1qs0vg6a4plfqzhtg9nq0wgyltrv9ghlaymyug8q~~
+~~- Tron: THAM7LmhrsaDrQULdaKBsnKs6S537DiCAk~~
+~~- Ethereum: 0x31A1DF3654c2827E77e2426E88c9Ec22ab701D5A~~
+~~- Doge: D6zggTnSXcp6iByip71XC9qT1DdH8fdftB~~
