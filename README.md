@@ -128,8 +128,8 @@ Donate to our opencollective, all funds spending is transparent so you know what
 #### Alternative donation methods
 - Duino Coin: `rpinews` & `moon1789`
 
-For crypto donations please use opencollective instead!
-~~- Bitcoin: bc1qs0vg6a4plfqzhtg9nq0wgyltrv9ghlaymyug8q~~
-~~- Tron: THAM7LmhrsaDrQULdaKBsnKs6S537DiCAk~~
-~~- Ethereum: 0x31A1DF3654c2827E77e2426E88c9Ec22ab701D5A~~
-~~- Doge: D6zggTnSXcp6iByip71XC9qT1DdH8fdftB~~
+For crypto donations please use opencollective instead!  
+~~- Bitcoin: bc1qs0vg6a4plfqzhtg9nq0wgyltrv9ghlaymyug8q~~  
+~~- Tron: THAM7LmhrsaDrQULdaKBsnKs6S537DiCAk~~  
+~~- Ethereum: 0x31A1DF3654c2827E77e2426E88c9Ec22ab701D5A~~  
+~~- Doge: D6zggTnSXcp6iByip71XC9qT1DdH8fdftB~~  
