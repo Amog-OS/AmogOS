@@ -70,6 +70,7 @@ https://merch.amogos.studio/
 - [DollarSkip](https://github.com/CleanMachine1/DollarSkip), a simple C app to ignore `$` signs inputted at the start of a command, for copying commands from online tutorials.
 - ncdu and tldr.
 - Pi-Apps x86 for the x64 build.
+- 69.420% compliance with the [SUS](https://en.m.wikipedia.org/wiki/Single_UNIX_Specification) specification.
 
 ### RPI only features, not present on x86_64 build
 - 64-bit kernel enabled by default for speed, as well as to enable Wine support on RPI 3.
