@@ -15,7 +15,9 @@ Redistribution and use in binary form, with or without modification, are permitt
     5. Redistributions binary form shall be used for good, not evil. The definitions of "Good" and "Evil" are at the
     sole discretion of the licensor.
 	
-	6. Redistribution of any AmogOS element must be free to download and use and cannot be sold in any way unless given written consent by the copyright holders.
+    6. Redistribution of any AmogOS element must be free to download and use and cannot be sold in any way unless given written consent by the copyright holders.
+    
+    7. All code used from AmogOS must have attribution to the original repository it was taken from.
 
 THIS SOFTWARE IS PROVIDED BY COPYRIGHT HOLDER "AS IS" AND ANY EXPRESS 
 OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
