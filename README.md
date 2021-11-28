@@ -113,7 +113,7 @@ AmogOS would not be possible without the following open source software:
 - xfce4-panel for dock and the panel
 - panther launcher for start menu
 - arc-grey-darker theme
-- paypirus icon theme
+- papirus icon theme
 
 #### Misc  
 
