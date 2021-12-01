@@ -70,7 +70,7 @@ https://merch.amogos.studio/
 - [DollarSkip](https://github.com/CleanMachine1/DollarSkip), a simple C app to ignore `$` signs inputted at the start of a command, for copying commands from online tutorials.
 - ncdu and tldr.
 - Pi-Apps x86 for the x64 build.
-- 69.420% compliance with the [SUS](https://en.m.wikipedia.org/wiki/Single_UNIX_Specification) specification.
+- 69.420% compliance with the [ඞSUSඞ](https://en.m.wikipedia.org/wiki/Single_UNIX_Specification) specification.
 
 ### RPI only features, not present on x86_64 build
 - 64-bit kernel enabled by default for speed, as well as to enable Wine support on RPI 3.
@@ -84,11 +84,11 @@ https://merch.amogos.studio/
 - (RPI version only) You can use [vdesktop](https://github.com/Botspot/vdesktop) to test out the OS in a container without any lag and flashing needed on an ARM host.
 - (RPI version only) Default username is "pi" and password is "raspberry".
 - (x86 version only) Default username is "amogos" and password is "amogos".
-- **AmogOS is not a custom OS, it's just riced RPi OS/Debian Bullseye for RPI and x64 versions respectively. It doesn't have any custom written source code. You can mount the squashfs .sb file and look at the rootfs yourself**
+- **ඞAmogOSඞ is not a custom OS, it's just riced RPi OS/Debian Bullseye for RPI and x64 versions respectively. It doesn't have any custom written source code. You can mount the squashfs .sb file and look at the rootfs yourself**
 
 ## Credits
 - Founder/UI Dev/Owner: Moon1789#4939 (https://moon1789.github.io/)
-- Main dev/Packager: Nooz#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on AmogOS related content and call me sussy impostor :p)
+- Main dev/Packager: Nooz#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on ඞAmogOSඞ related content and call me sussy impostor :p)
 - Graphical designer: peekatchoo#0001 (no longer helping us, but absolute chad)
 - Thanks to !   !Linkley Steals Your Kinky 2#4642 for hosting the torrents :)
 - Thanks to aelpxy for hosting our mirror downloads
@@ -98,7 +98,7 @@ https://merch.amogos.studio/
 (Note: Discord tags and names may change)
 
 ### Software credits
-AmogOS would not be possible without the following open source software:
+ඞAmogOSඞ would not be possible without the following open source software:
 
 #### Base OS  
 
@@ -125,7 +125,7 @@ AmogOS would not be possible without the following open source software:
 And to Innersloth, for making one of the most famous and memed games of 2020 and onwards.  
 
 ### Donation
-Donate to our opencollective, all funds spending is transparent so you know what we do with your generous donations! We also support crypto https://opencollective.com/amogos (we are 2 broke high schoolers pls donate or become sus)
+Donate to our opencollective, all funds spending is transparent so you know what we do with your generous donations! We also support crypto https://opencollective.com/amogos (we are 2 broke high schoolers pls donate or become ඞsusඞ)
 
 #### Alternative donation methods
 - Duino Coin: `rpinews` & `moon1789`
