@@ -1,16 +1,16 @@
-## AmogOS
+## ඞAmogOSඞ
 An Among Us-inspired OS ඞ. (pronounced A-mog-O-S)
 
 <img src="https://i.postimg.cc/vmF8tTVH/120727498-ecfc5e00-c497-11eb-9f92-a1b99318fee1.png"/> <img src="https://i.postimg.cc/m2Ym9qXt/130533968-d797e83d-e643-4c62-9264-7d46c2b67b48.png"/>
 
 ## General Info
 
-This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/) (and also yoinks the icon and wallpaper from it, originally made by `u/_peekatchoo_` on Reddit). AmogOS is a meme OS based on the hit game Among Us, in the same vein as Hannah Montana Linux, but it's also developed and made to be a highly lightweight operating system that can be used as a desktop OS if one really wanted to, and it's a bit ironic that AmogOS is lighter and less bloated than most mainstream distros (`chad AmogOS vs bloated mainstream distro` as youtuber TechHut put it). It packs so many features in only 1.6GB that we gave up adding them all to our features list since it was so long. Why spend so much effort on a meme os? Well, mainstream oses suck so I want to dab on them by making a meme os better than their professional os:)
+This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/) (and also yoinks the icon and wallpaper from it, originally made by `u/_peekatchoo_` on Reddit). ඞAmogOSඞ is a meme OS based on the hit game Among Us, in the same vein as Hannah Montana Linux, but it's also developed and made to be a highly lightweight operating system that can be used as a desktop OS if one really wanted to, and it's a bit ironic that ඞAmogOSඞ is lighter and less bloated than most mainstream distros (`chad ඞAmogOSඞ vs bloated mainstream distro` as youtuber TechHut put it). It packs so many features in only 1.6GB that we gave up adding them all to our features list since it was so long. Why spend so much effort on a meme os? Well, mainstream oses suck so I want to dab on them by making a meme os better than their professional os:)
 
 ## Table of Contents (For lazy ppl who dont wanna scroll)
 - [Testimonies](#Testimonies)  
-- [Shut up, how do I become sus](#Install) <br>
-- [Testing AmogOS](#Testing-AmogOS)  <br>
+- [Shut up, how do I become ඞSUSඞ](#Install) <br>
+- [Testing AmogOS](#Testing-ඞAmogOSඞ)  <br>
 - [Website](#Website)  
 - [Merch](#Merch)  
 - [Support](#Support)  
@@ -22,16 +22,16 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 
 ## Testimonies
 
-- `sussy wussy` -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)
+- `ඞsussyඞ wussy` -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)
   
-- `I'm pretty sure AmogOS has broken Mutahar's mental state and now he only says "sussy wussy" in like a really weird voice` -[Raspberry Pi News (developer)](https://www.youtube.com/watch?v=jiQVuhNiTZ0)
+- `I'm pretty sure ඞAmogOSඞ has broken Mutahar's mental state and now he only says "ඞsussyඞ wussy" in like a really weird voice` -[Raspberry Pi News (developer)](https://www.youtube.com/watch?v=jiQVuhNiTZ0)
   
 - `why did I even make this os` -[Moon 1789 (founder)](https://www.youtube.com/watch?v=hkzYIwMYds8)
   
-- `chad AmogOS vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
+- `chad ඞAmogOSඞ vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
 ## Installation Notes
-- **We are not resposible for ANY KIND OF DATA LOSS or any kind of problem not relating to AMOGOS, USE THIS AT YOUR OWN RISK**
+- **We are not resposible for ANY KIND OF DATA LOSS or any kind of problem not relating to ඞAMOGOSඞ, USE THIS AT YOUR OWN RISK**
 
 - NOTE: We have both Raspberry Pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names in their respective releases.  
 
@@ -42,16 +42,16 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 ## Install
 - **Grab install instructions and the download links here on our website: https://www.amogos.studio/install.html.**
 
-- (please note that by downloading AmogOS, you have a severely increased chance of being infected with the deadly amogus and AMOGID-16 virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
+- (please note that by downloading ඞAmogOSඞ, you have a severely increased chance of being infected with the deadly ඞamogusඞ and ඞAMOGID-69ඞ virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
 
-## Testing AmogOS
-- Now you can test out AmogOS online without downloading it at DistroTest: https://distrotest.net/AmogOS/. (note that DistroTest just has high latency, AmogOS actually runs extremely well even on my old 2013 laptop so get rekt Ubuntu)
+## Testing ඞAmogOSඞ
+- Now you can test out ඞAmogOSඞ online without downloading it at DistroTest: https://distrotest.net/AmogOS/. (note that DistroTest just has high latency, ඞAmogOSඞ actually runs extremely well even on my old 2013 laptop so get rekt Ubuntu)
 
 ## Website
-- Our website is at https://www.amogos.studio, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our partner OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.amogos.studio/startpage/.
+- Our website is at https://www.amogos.studio, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our partner OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for ඞAmogOSඞ is at https://www.amogos.studio/startpage/.
 
 ## Merch
-- Now stocking very sus stickers (we priced it as cheap as possible so pls buy some my family is starving from the among us skins I'm purchasing). (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping). 
+- Now stocking very ඞsusඞ stickers (we priced it as cheap as possible so pls buy some my family is starving from the ඞamong usඞ skins I'm purchasing). (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping). 
 https://merch.amogos.studio/ 
 
 - If you wanna print your own stickers download them [here](https://cdn.discordapp.com/attachments/867502562953658428/867512035687530526/amog-icon.png) and [here](https://cdn.discordapp.com/attachments/867502562953658428/867871352035082300/amogoschip-sticker.png)
