@@ -1,5 +1,7 @@
-## ඞAmogOSඞ
+## AmogOS
 An Among Us-inspired OS ඞ. (pronounced A-mog-O-S)
+
+<img alt="open collective badge" src="https://opencollective.com/amogos/tiers/just-wanna-help.svg?avatarHeight=65" />
 
 <img src="https://i.postimg.cc/vmF8tTVH/120727498-ecfc5e00-c497-11eb-9f92-a1b99318fee1.png"/> <img src="https://i.postimg.cc/m2Ym9qXt/130533968-d797e83d-e643-4c62-9264-7d46c2b67b48.png"/>
 
@@ -22,9 +24,9 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 
 ## Testimonies
 
-- `ඞsussyඞ wussy` -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)
+- `sussy wussy` -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)
   
-- `I'm pretty sure ඞAmogOSඞ has broken Mutahar's mental state and now he only says "ඞsussyඞ wussy" in like a really weird voice` -[Raspberry Pi News (developer)](https://www.youtube.com/watch?v=jiQVuhNiTZ0)
+- `I'm pretty sure AmogOS has broken Mutahar's mental state and now he only says "sussy wussy" in like a really weird voice` -[Raspberry Pi News (developer)](https://www.youtube.com/watch?v=jiQVuhNiTZ0)
   
 - `why did I even make this os` -[Moon 1789 (founder)](https://www.youtube.com/watch?v=hkzYIwMYds8)
   
@@ -42,19 +44,17 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 ## Install
 - **Grab install instructions and the download links here on our website: https://www.amogos.studio/install.html.**
 
-- (please note that by downloading ඞAmogOSඞ, you have a severely increased chance of being infected with the deadly ඞamogusඞ and ඞAMOGID-69ඞ virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
+- (please note that by downloading AmogOS, you have a severely increased chance of being infected with the deadly ඞamogusඞ and AMOGID-69 virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
 
 ## Testing ඞAmogOSඞ
-- Now you can test out ඞAmogOSඞ online without downloading it at DistroTest: https://distrotest.net/AmogOS/. (note that DistroTest just has high latency, ඞAmogOSඞ actually runs extremely well even on my old 2013 laptop so get rekt Ubuntu)
+- Now you can test out AmogOS online without downloading it at DistroTest: https://distrotest.net/AmogOS/. (note that DistroTest just has high latency, ඞAmogOSඞ actually runs extremely well even on my old 2013 laptop so get rekt Ubuntu)
 
 ## Website
-- Our website is at https://www.amogos.studio, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our partner OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for ඞAmogOSඞ is at https://www.amogos.studio/startpage/.
+- Our website is at https://www.amogos.studio, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our partner OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.amogos.studio/startpage/.
 
 ## Merch
 - Now stocking very ඞsusඞ stickers (we priced it as cheap as possible so pls buy some my family is starving from the ඞamong usඞ skins I'm purchasing). (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping). 
 https://merch.amogos.studio/ 
-
-- If you wanna print your own stickers download them [here](https://cdn.discordapp.com/attachments/867502562953658428/867512035687530526/amog-icon.png) and [here](https://cdn.discordapp.com/attachments/867502562953658428/867871352035082300/amogoschip-sticker.png)
 
 ## Support
 - https://discord.gg/6ut87Hqukr (also see discord for our partner Jostro! https://discord.gg/jr469efBZM)
