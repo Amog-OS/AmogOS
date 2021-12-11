@@ -18,7 +18,8 @@ For those of you wanting to go the extra mile and install the OS onto their SSD/
 - Boot it up by plugging it into a PC, and go into the BIOS to then choose your flashed boot media as the boot device.
 In the boot menu, choose the "Live USB" option to boot the OS and have all your modififed files revert on reboot or the "persistance" option to have your changed files get written to the boot media and stay on reboot.  
 
-- :warning: If the screen resolution is off, click the "Display Settings" shortcut on the desktop and change resolutions until you find one that works for you. Also note that if the dock looks like it's positioning is broken, run `plank --preferences` in the terminal and change the position to "Bottom". You can also set the alignment to "Center" and manually change the spacing with the slider.
+- ⚠️ If the OS refuses to display anything, you may need to install AMD/NVIDIA GPU drivers if you have one. Install it by SSHing into the OS with `ssh amogos@AmogOS` on a linux computer on the same network at the AmogOS PC, then doing the following for AMD GPUS `sudo apt purge -y xserver-xorg-video-nouveau libdrm-nouveau2 && sudo apt install -y firmware-amd-graphics libgl1-mesa-dri libglx-mesa0 mesa-vulkan-drivers xserver-xorg-video-all` (nouveau drivers for NVIDIA graphic cards are installed by default)
+- ⚠️ If the screen resolution looks wonky, click the "Display Settings" shortcut on the desktop and change resolutions until you find one that works for you. Also note that if the dock looks like it's positioning is broken, run `plank --preferences` in the terminal and change the position to "Bottom". You can also set the alignment to "Center" and manually change the spacing with the slider.
 
 - Connect to internet via ethernet or wifi
 
