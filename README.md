@@ -53,7 +53,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 - Our website is at https://www.amogos.studio, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our partner OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.amogos.studio/startpage/.
 
 ## Merch
-- Now stocking very ඞsusඞ stickers and other sussy stuff (we priced it as cheap as possible so pls buy some my family is starving from the ඞamong usඞ skins I'm purchasing). (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping). 
+- Now stocking very ඞsusඞ stickers, shirts and other sussy stuff (we priced it as cheap as possible so pls buy some my family is starving from the ඞamong usඞ skins I'm purchasing). (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping). 
 https://merch.amogos.studio/ 
 
 ## Support
