@@ -1,4 +1,4 @@
-## AmogOS
+## ඞAmogOSඞ
 An Among Us-inspired OS ඞ. (pronounced A-mog-O-S)
 
 <img alt="open collective badge" src="https://opencollective.com/amogos/tiers/just-wanna-help.svg?avatarHeight=65" />
@@ -12,7 +12,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 ## Table of Contents (For lazy ppl who dont wanna scroll)
 - [Testimonies](#Testimonies)  
 - [Shut up, how do I become ඞSUSඞ](#Install) <br>
-- [Testing AmogOS](#Testing-ඞAmogOSඞ)  <br>
+- [Testing ඞAmogOSඞ](#Testing-ඞAmogOSඞ)  <br>
 - [Website](#Website)  
 - [Merch](#Merch)  
 - [Support](#Support)  
@@ -24,9 +24,9 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 
 ## Testimonies
 
-- `sussy wussy` -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)
+- `ඞsussyඞ wussy` -[SomeOrdinaryGamers](https://www.youtube.com/watch?v=ixLuhDxNktk)
   
-- `I'm pretty sure AmogOS has broken Mutahar's mental state and now he only says "sussy wussy" in like a really weird voice` -[Raspberry Pi News (developer)](https://www.youtube.com/watch?v=jiQVuhNiTZ0)
+- `I'm pretty sure ඞAmogOSඞ has broken Mutahar's mental state and now he only says "ඞsussy wussyඞ" in like a really weird voice` -[Raspberry Pi News (developer)](https://www.youtube.com/watch?v=jiQVuhNiTZ0)
   
 - `why did I even make this os` -[Moon 1789 (founder)](https://www.youtube.com/watch?v=hkzYIwMYds8)
   
@@ -44,13 +44,13 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 ## Install
 - **Grab install instructions and the download links here on our website: https://www.amogos.studio/install.html.**
 
-- (please note that by downloading AmogOS, you have a severely increased chance of being infected with the deadly ඞamogusඞ and AMOGID-69 virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
+- (please note that by downloading ඞAmogOSඞ, you have a severely increased chance of being infected with the deadly ඞamogusඞ and AMOGID-69 virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
 
 ## Testing ඞAmogOSඞ
-- Now you can test out AmogOS online without downloading it at DistroTest: https://distrotest.net/AmogOS/. (note that DistroTest just has high latency, ඞAmogOSඞ actually runs extremely well even on my old 2013 laptop so get rekt Ubuntu)
+- Now you can test out ඞAmogOSඞ online without downloading it at DistroTest: https://distrotest.net/AmogOS/. (note that DistroTest just has high latency, ඞAmogOSඞ actually runs extremely well even on my old 2013 laptop so get rekt Ubuntu)
 
 ## Website
-- Our website is at https://www.amogos.studio, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our partner OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for AmogOS is at https://www.amogos.studio/startpage/.
+- Our website is at https://www.amogos.studio, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our partner OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for ඞAmogOSඞ is at https://www.amogos.studio/startpage/.
 
 ## Merch
 - Now stocking very ඞsusඞ stickers, shirts and other sussy stuff (we priced it as cheap as possible so pls buy some my family is starving from the ඞamong usඞ skins I'm purchasing). (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping). 
@@ -70,7 +70,7 @@ https://merch.amogos.studio/
 - [DollarSkip](https://github.com/CleanMachine1/DollarSkip), a simple C app to ignore `$` signs inputted at the start of a command, for copying commands from online tutorials.
 - ncdu and tldr.
 - Pi-Apps x86 for the x64 build.
-- 69.420% compliance with the [ඞSUSඞ](https://en.m.wikipedia.org/wiki/Single_UNIX_Specification) specification.
+- 420.69% compliance with the [ඞSUSඞ](https://en.m.wikipedia.org/wiki/Single_UNIX_Specification) specification.
 
 ### RPI only features, not present on x86_64 build
 - 64-bit kernel enabled by default for speed, as well as to enable Wine support on RPI 3.
