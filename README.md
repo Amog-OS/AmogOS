@@ -28,7 +28,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
   
 - `I'm pretty sure ඞAmogOSඞ has broken Mutahar's mental state and now he only says "ඞsussy wussyඞ" in like a really weird voice` -[Raspberry Pi News (developer)](https://www.youtube.com/watch?v=jiQVuhNiTZ0)
   
-- `why did I even make this os` -[Moon 1789 (founder)](https://www.youtube.com/watch?v=hkzYIwMYds8)
+- `very sussy os` -[Moon 1789 (founder)](https://www.youtube.com/watch?v=hkzYIwMYds8)
   
 - `chad ඞAmogOSඞ vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
