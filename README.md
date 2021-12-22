@@ -1,4 +1,4 @@
-## ඞAmogOSඞ
+# AmogOS
 An Among Us-inspired OS ඞ. (pronounced A-mog-O-S)
 
 <img alt="open collective badge" src="https://opencollective.com/amogos/tiers/just-wanna-help.svg?avatarHeight=65" />
