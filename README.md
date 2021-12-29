@@ -39,7 +39,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 
 - For x64 users: It takes like a whole 69420 secs to load the UI from usb boot so be patient!
 
-- For RPI users: SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING AMOGOS ON AN ACTUAL PI TO FIX BLINKING CURSOR/BOOT ISSUE.
+- For RPI users: SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING ඞAMOGOSඞ ON AN ACTUAL PI TO FIX BLINKING CURSOR/BOOT ISSUE.
 
 ## Install
 - **Grab install instructions and the download links here on our website: https://www.amogos.studio/install.html.**
