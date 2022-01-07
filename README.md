@@ -7,7 +7,7 @@ An Among Us-inspired OS ඞ. (pronounced A-mog-O-S)
 
 ## General Info
 
-This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/) (which was further inspired by https://www.reddit.com/r/linuxmint/comments/n9h7b4/amogos_custom_background_mint_x_grey_theme/ which was posted by peek, our graphical designer. *cough cough Mutahar*). ඞAmogOSඞ is a meme OS based on the hit game Among Us, in the same vein as Hannah Montana Linux, but it's also developed and made to be a highly lightweight operating system that can be used as a desktop OS if one really wanted to, and it's a bit ironic that ඞAmogOSඞ is lighter and less bloated than most mainstream distros (`chad ඞAmogOSඞ vs bloated mainstream distro` as youtuber TechHut put it). It packs so many features in only 1.6GB that we gave up adding them all to our features list since it was so long. Why spend so much effort on a meme os? Well, mainstream oses suck so I want to dab on them by making a meme os better than their professional os:)
+This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/) (which was further inspired by [this](https://www.reddit.com/r/linuxmint/comments/n9h7b4/amogos_custom_background_mint_x_grey_theme/) which was posted by peek, our graphical designer. *cough cough Mutahar*). ඞAmogOSඞ is a meme OS based on the hit game Among Us, in the same vein as Hannah Montana Linux, but it's also developed and made to be a lightweight operating system that can be used as a desktop OS if one really wanted to, and it's a bit ironic that ඞAmogOSඞ is lighter and less bloated than most mainstream distros (`chad ඞAmogOSඞ vs bloated mainstream distro` as youtuber TechHut put it). It packs so many features in only 1.6GB that we gave up adding them all to our features list since it was so long. Why spend so much effort on a meme os? Well, mainstream oses suck so I want to dab on them by making a meme os better than their professional os:)
 
 ## Table of Contents (For lazy ppl who dont wanna scroll)
 - [Testimonies](#Testimonies)  
@@ -50,18 +50,18 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 - Now you can test out ඞAmogOSඞ online without downloading it at DistroTest: https://distrotest.net/AmogOS/. (note that DistroTest just has high latency, ඞAmogOSඞ actually runs extremely well even on my old 2013 laptop so get rekt Ubuntu)
 
 ## Website
-- Our website is at https://www.amogos.studio, designed by our web developer Fengzi (he's too sus to keep his full name here). Also check out our partner OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for ඞAmogOSඞ is at https://www.amogos.studio/startpage/.
+- Our website is at https://www.amogos.studio, designed by **our** web developer Fengzi (he's too sus to keep his full name here). Also check out our partner OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for ඞAmogOSඞ is at https://www.amogos.studio/startpage/.
 
 ## Merch
 - Now stocking very ඞsusඞ stickers, shirts and other sussy stuff (we priced it as cheap as possible so pls buy some my family is starving from the ඞamong usඞ skins I'm purchasing). (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping). 
 https://merch.amogos.studio/ 
 
 ## Support
-- https://discord.gg/6ut87Hqukr (also see discord for our partner Jostro! https://discord.gg/jr469efBZM)
+- https://discord.gg/6ut87Hqukr (also see discord for our partner Jostro! https://discord.gg/jr469efBZM).
 
 ## Features
 - Too sus.
-- Custom wallpapers and start menu icon that can be found in `~/Pictures/.amogOS/`.
+- Custom wallpapers and start menu icon that can be found in `~/Pictures/.amogOS/`. (or download them [here](https://github.com/Amog-OS/AmogOS-Wallpapers))
 - Grey color palette to match Among Us.
 - Custom neofetch logo.
 - [MCPI Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn) (It's recommended you use the included `gMCPIL` launcher to launch the game).
@@ -87,12 +87,13 @@ https://merch.amogos.studio/
 - **ඞAmogOSඞ is not a custom OS, it's just riced RPi OS/Debian Bullseye for RPI and x64 versions respectively. It doesn't have any custom written source code. You can mount the squashfs .sb file and look at the rootfs yourself**
 
 ## Credits
-- Founder/UI Dev/Owner: Moon1789#4939 (https://moon1789.github.io/)
-- Main dev/Packager: Nooz#0816 (https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) (I also go by https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A for those of you who see me comment on ඞAmogOSඞ related content and call me sussy impostor :p)
-- Graphical designer: peekatchoo#0001 (no longer helping us, but absolute chad)
-- Thanks to !   !Linkley Steals Your Kinky 2#4642 for hosting the torrents :)
-- Thanks to aelpxy for hosting our mirror downloads
-- Thanks to JoJo Autoboy#1931 for being our overlord
+- Founder/UI Dev/Owner: Moon1789#4939 (inactive for now) [Website](https://moon1789.github.io/)
+- Main dev/Packager: Nooz#0816 [Youtube](https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) [Youtube](https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A)
+- Graphical designer: peekatchoo#0001 (no longer helping us, but absolute chad).
+- Thanks to !   !Linkley Steals Your Kinky 2#4642 for hosting the torrents.
+- Thanks to aelpxy for hosting our mirror downloads.
+- Thanks to JoJo Autoboy#1931 for being our overlord.
+- Thanks to 疯子鸭#5218 (Pronounced : Fengzi) for yes.
 - [sUs !1!1!](https://linustechtips.com/uploads/monthly_2021_03/1647043410_LinusWindowsXP.png.52fed85d600faa323ec2fa515d1b3ff7.png)
 
 (Note: Discord tags and names may change)
@@ -100,12 +101,7 @@ https://merch.amogos.studio/
 ### Software credits
 ඞAmogOSඞ would not be possible without the following open source software:
 
-#### Base OS  
-
-- Debian Bullseye and RPI OS  
-
-#### UI  
-
+- Debian Bullseye , AntiX Project and RPI OS.
 - Openbox WM  
 - LXDE for DE  
 - xcompmgr for effects  
@@ -114,24 +110,18 @@ https://merch.amogos.studio/
 - panther launcher for start menu
 - arc-grey-darker theme
 - papirus icon theme
-
-#### Misc  
-
 - https://github.com/sueperb/tasty-grubs for the x64 GRUB theme  
 - https://linux-live.org/ our x64 build packager
 - https://github.com/Botspot/Pi-Power-Tools and https://www.raspberrypi.org/forums/viewtopic.php?t=247568, pishrink and gnome-disks for packaging the RPI builds  
 - [Insert the names of all the apps included that im too lazy to type]  
 
-And to Innersloth, for making one of the most famous and memed games of 2020 and onwards.  
+And to **Innersloth**, for making one of the most famous and memed games of 2020 and onwards.  
 
 ### Donation
-Donate to our opencollective, all funds spending is transparent so you know what we do with your generous donations! We also support crypto https://opencollective.com/amogos (we are 2 broke high schoolers pls donate or become ඞsusඞ)
+Donate to our opencollective, all funds spending is transparent so you know what we do with your generous donations! We also support crypto https://opencollective.com/amogos (we are 2 broke high schoolers pls donate or become ඞsusඞ).
 
-#### Alternative donation methods
+Alternative donation methods :
 - Duino Coin: `rpinews` & `moon1789`
+- Crypto : (For crypto donations please use opencollective instead!)
 
-For crypto donations please use opencollective instead!  
-~~- Bitcoin: bc1qs0vg6a4plfqzhtg9nq0wgyltrv9ghlaymyug8q~~  
-~~- Tron: THAM7LmhrsaDrQULdaKBsnKs6S537DiCAk~~  
-~~- Ethereum: 0x31A1DF3654c2827E77e2426E88c9Ec22ab701D5A~~  
-~~- Doge: D6zggTnSXcp6iByip71XC9qT1DdH8fdftB~~  
+Thanks Guys.
