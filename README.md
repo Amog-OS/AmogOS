@@ -1,5 +1,5 @@
 # AmogOS
-An Among Us-inspired OS ඞ. (pronounced A-mog-O-S)
+An parody OS inspired by Among Us ඞ. (pronounced A-mog-O-S)
 
 <img alt="open collective badge" src="https://opencollective.com/amogos/tiers/just-wanna-help.svg?avatarHeight=65" />
 
@@ -7,9 +7,17 @@ An Among Us-inspired OS ඞ. (pronounced A-mog-O-S)
 
 ## General Info
 
-This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/) (which was further inspired by [this post](https://www.reddit.com/r/linuxmint/comments/n9h7b4/amogos_custom_background_mint_x_grey_theme/), which was posted by peek, our graphical designer. *cough cough Mutahar*). ඞAmogOSඞ is a meme OS based on the hit game Among Us, in the same vein as Hannah Montana Linux, but it's also developed and made to be a lightweight operating system that can be used as a desktop OS if one really wanted to, and it's a bit ironic that ඞAmogOSඞ is lighter and less bloated than most mainstream distros (`chad ඞAmogOSඞ vs bloated mainstream distro` as youtuber TechHut put it). It packs so many features in only 1.6GB that we gave up adding them all to our features list since it was so long. Why spend so much effort on a meme os? Well, mainstream oses suck so I want to dab on them by making a meme os better than their professional os:)
+This was mostly inspired by 
+[this reddit post](https://www.reddit.com/r/unixporn/comments/nhomed/cinnamon_amogos_is_complete_icon_art_idea_by_u/) 
+(which was further inspired by [this post](https://www.reddit.com/r/linuxmint/comments/n9h7b4/amogos_custom_background_mint_x_grey_theme/),
+ which was posted by peek, our graphical designer. *cough cough Mutahar*). ඞAmogOSඞ is a meme OS based
+ on the hit game Among Us, in the same vein as Hannah Montana Linux, but it's also developed and made to be a 
+lightweight operating system. It's a bit ironic that 
+ඞAmogOSඞ is lighter and less bloated than most mainstream distros (`chad ඞAmogOSඞ vs bloated mainstream distro` 
+as youtuber TechHut put it). Why spend so much effort on a mem OS? Well, mainstream OSes suck so I want to dab on them
+ by making a meme OS better than their professionallly developed ones. Don't take this too seriously :p
 
-## Table of Contents (For lazy ppl who dont wanna scroll)
+## Table of Contents (For lazy people who can't use the scroll wheel)
 - [Testimonies](#Testimonies)  
 - [Shut up, how do I become ඞSUSඞ](#Install) <br>
 - [Testing ඞAmogOSඞ](#Testing-ඞAmogOSඞ)  <br>
@@ -35,16 +43,12 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 ## Installation Notes
 - **We are not resposible for ANY KIND OF DATA LOSS or any kind of problem not relating to ඞAMOGOSඞ, USE THIS AT YOUR OWN RISK**
 
-- NOTE: We have both Raspberry Pi and x86_64 builds. Raspberry Pi 32-bit builds will have `RPI` in their names and PC x86_64 builds will have `x64` in their names in their respective releases.  
-
 - For x64 users: It takes like a whole 69420 secs to load the UI from usb boot so be patient!
-
-- For RPI users: SPAM ESC KEY ON THE KEYBOARD WHEN BOOTING ඞAMOGOSඞ ON AN ACTUAL PI TO FIX BLINKING CURSOR/BOOT ISSUE.
 
 ## Install
 - **Grab install instructions and the download links here on our website: https://www.amogos.studio/install.html.**
 
-- (please note that by downloading ඞAmogOSඞ, you have a severely increased chance of being infected with the deadly ඞamogusඞ and AMOGID-69 virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
+- (please note that by downloading ඞAmogOSඞ, you have a severely increased chance of being infected with the sussy ඞamogusඞ and AMOGID-69 virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
 
 ## Testing ඞAmogOSඞ
 - Now you can test out ඞAmogOSඞ online without downloading it at DistroTest: https://distrotest.net/AmogOS/. (note that DistroTest just has high latency, ඞAmogOSඞ actually runs extremely well even on my old 2013 laptop so get rekt Ubuntu)
@@ -54,7 +58,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/unixporn
 
 ## Merch
 - Now stocking very ඞsusඞ stickers, shirts and other sussy stuff (we priced it as cheap as possible so pls buy some my family is starving from the ඞamong usඞ skins I'm purchasing). (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping). 
-https://merch.amogos.studio/ 
+https://shop.amogos.studio/
 
 ## Support
 - https://discord.gg/6ut87Hqukr (also see discord for our partner Jostro! https://discord.gg/jr469efBZM).
@@ -70,7 +74,7 @@ https://merch.amogos.studio/
 - [DollarSkip](https://github.com/CleanMachine1/DollarSkip), a simple C app to ignore `$` signs inputted at the start of a command, for copying commands from online tutorials.
 - ncdu and tldr.
 - Pi-Apps x86 for the x64 build.
-- 420.69% compliance with the [ඞSUSඞ](https://en.m.wikipedia.org/wiki/Single_UNIX_Specification) specification.
+- -69% compliance with the [ඞSUSඞ](https://en.m.wikipedia.org/wiki/Single_UNIX_Specification) specification.
 
 ### RPI only features, not present on x86_64 build
 - 64-bit kernel enabled by default for speed, as well as to enable Wine support on RPI 3.
@@ -87,41 +91,35 @@ https://merch.amogos.studio/
 - **ඞAmogOSඞ is not a custom OS, it's just riced RPi OS/Debian Bullseye for RPI and x64 versions respectively. It doesn't have any custom written source code. You can mount the squashfs .sb file and look at the rootfs yourself**
 
 ## Credits
-- Founder/UI Dev/Owner: Moon1789#4939 (inactive for now) [Website](https://moon1789.github.io/)
-- Main dev/Packager: Nooz#0816 [Youtube](https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw) [Youtube](https://www.youtube.com/channel/UCOImY0CpIrsOmbODaWYt17A)
-- Graphical designer: peekatchoo#0001 (no longer helping us, but absolute chad).
-- Thanks to !   !Linkley Steals Your Kinky 2#4642 for hosting the torrents.
-- Thanks to aelpxy for hosting our mirror downloads.
-- Thanks to JoJo Autoboy#1931 for being our overlord.
-- Thanks to 疯子鸭#5218 (Pronounced : Fengzi) for yes.
+- [Moon1789#5876](https://moon1789.github.io/), the UI lead, founder and man in the shadows. (inactive for now) 
+- [Nooz#0816]((https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw), the main developer and active maintainer.
+- [peekatchoo#0001](https://www.reddit.com/u/_peekatchoo_), the graphical designer who made this possible in the first place. (no longer helping us, but absolute chad)
+- ! !-Linkley steals your kinky#4642, for seeding the initial torrents.
+- Aelpxy#7590 for hosting our mirror downloads.
+- JoJo Autoboy#1931 for creating Jostro OS which brought together the necessary people to make AmogOS.
+- 疯子鸭#5218 (Pronounced "Fengzi") for making website.
 - [sUs !1!1!](https://media.discordapp.net/attachments/836822984110899261/929825908263620638/SPOILER_lol.jpg)
-
-(Note: Discord tags and names may change)
 
 ### Software credits
 ඞAmogOSඞ would not be possible without the following open source software:
 
-- Debian Bullseye , AntiX Project and RPI OS.
+- Debian Bullseye, AntiX Project and RPI OS.
 - Openbox WM  
 - LXDE for DE  
 - xcompmgr for effects  
-- Lightpad for the launchpad thing  
+- Lightpad for the macOS launchpad clone
 - xfce4-panel for dock and the panel
-- panther launcher for start menu
-- arc-grey-darker theme
-- papirus icon theme
+- Whisker for start menu
+- Arc-Grey-Darker theme
+- Papirus icon theme
 - https://github.com/sueperb/tasty-grubs for the x64 GRUB theme  
 - https://linux-live.org/ our x64 build packager
-- https://github.com/Botspot/Pi-Power-Tools and https://www.raspberrypi.org/forums/viewtopic.php?t=247568, pishrink and gnome-disks for packaging the RPI builds  
-- [Insert the names of all the apps included that im too lazy to type]  
+- PiSafe and PiShrink for packaging the RPI builds  
 
 And to **Innersloth**, for making one of the most famous and memed games of 2020 and onwards.  
 
 ### Donation
-Donate to our opencollective, all funds spending is transparent so you know what we do with your generous donations! We also support crypto https://opencollective.com/amogos (we are 2 broke high schoolers pls donate or become ඞsusඞ).
+Donate to our OpenCollective, all funds spending is transparent so you know what we do with your generous donations! We also support crypto https://opencollective.com/amogos (we are 2 broke high schoolers pls donate or you will become ඞsusඞ).
 
-Alternative donation methods :
-- Duino Coin: `rpinews` & `moon1789`
-- Crypto : (For crypto donations please use opencollective instead!)
-
-Thanks Guys.
+Alternative donation methods:
+- Crypto : (For crypto donations please use OpenCollective!)
