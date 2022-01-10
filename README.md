@@ -94,7 +94,7 @@ https://merch.amogos.studio/
 - Thanks to aelpxy for hosting our mirror downloads.
 - Thanks to JoJo Autoboy#1931 for being our overlord.
 - Thanks to 疯子鸭#5218 (Pronounced : Fengzi) for yes.
-- [sUs !1!1!](https://linustechtips.com/uploads/monthly_2021_03/1647043410_LinusWindowsXP.png.52fed85d600faa323ec2fa515d1b3ff7.png)
+- [sUs !1!1!](https://media.discordapp.net/attachments/836822984110899261/929825908263620638/SPOILER_lol.jpg)
 
 (Note: Discord tags and names may change)
 
