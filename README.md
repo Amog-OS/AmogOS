@@ -82,7 +82,7 @@ https://shop.amogos.studio/
 - Wine + box86 preinstalled for x86 windows syscall translation.
 - piKiss and Pi-Apps preinstalled so you can install some games and also A M O N G U S.
 (Among Us will run at ~5 fps on multiplayer play. It runs rather poorly, but for a game never intended to run on a CPU the size of a thumb with 2 layers of syscall translation (x86 windows -> x86 linux -> arm linux), it's decent. A small resolution is needed for the game to run without poor framerates).
-- You can overclock your RPI with Commander Pi to get slightly more performace.
+- You can overclock your RPI with Commander Pi to get slightly more performance.
 
 ## Notes
 - (RPI version only) You can use [vdesktop](https://github.com/Botspot/vdesktop) to test out the OS in a container without any lag and flashing needed on an ARM host.
