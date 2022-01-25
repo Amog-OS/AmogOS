@@ -92,7 +92,7 @@ https://shop.amogos.studio/
 
 ## Credits
 - [Moon1789#5876](https://moon1789.github.io/), the UI lead, founder and man in the shadows. (inactive for now) 
-- [Nooz#0816]((https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw), the main developer and active maintainer.
+- [Nooz#0816](https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw), the main developer and active maintainer.
 - [peekatchoo#0001](https://www.reddit.com/u/_peekatchoo_), the graphical designer who made this possible in the first place. (no longer helping us, but absolute chad)
 - ! !-Linkley steals your kinky#4642, for seeding the initial torrents.
 - Aelpxy#7590 for hosting our mirror downloads.
