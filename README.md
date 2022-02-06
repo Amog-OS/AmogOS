@@ -14,7 +14,7 @@ This was mostly inspired by
  on the hit game Among Us, in the same vein as Hannah Montana Linux, but it's also developed and made to be a 
 lightweight operating system. It's a bit ironic that 
 ඞAmogOSඞ is lighter and less bloated than most mainstream distros (`chad ඞAmogOSඞ vs bloated mainstream distro` 
-as youtuber TechHut put it). Why spend so much effort on a mem OS? Well, mainstream OSes suck so I want to dab on them
+as youtuber TechHut put it). Why spend so much effort on a meme OS? Well, mainstream OSes suck so I want to dab on them
  by making a meme OS better than their professionallly developed ones. Don't take this too seriously :p
 
 ## Table of Contents (For lazy people who can't use the scroll wheel)
