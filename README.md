@@ -55,14 +55,14 @@ as youtuber TechHut put it). Why spend so much effort on a meme OS? Well, mainst
 - Our website is at https://www.amogos.studio, designed by **our** web developer Fengzi (he's too sus to keep his full name here). Also check out our partner OS [Jostro OS](https://github.com/jostroOS/jostro). The official startpage for ඞAmogOSඞ is at https://www.amogos.studio/startpage/.
 
 ## Merch
-- Now stocking very ඞsusඞ stickers, shirts and other sussy stuff (we priced it as cheap as possible so pls buy some my family is starving from the ඞamong usඞ skins I'm purchasing). (also use code `IMBROKE` for 5$ off and `SUSSYBAKA` for free shipping). 
-https://shop.amogos.studio/
+- Now stocking very ඞsusඞ stickers, shirts and other sussy stuff. All proceeds will be used to feed our developers, hire artists or be donated to charity.
+https://amogos.myspreadshop.com/
 
 ## Support
 - https://discord.gg/6ut87Hqukr (also see discord for our partner Jostro! https://discord.gg/jr469efBZM).
 
 ## Features
-- Too sus.
+- Incredibly sussy
 - Custom wallpapers and start menu icon that can be found in `~/Pictures/.amogOS/`. (or download them [here](https://github.com/Amog-OS/AmogOS-Wallpapers))
 - Grey color palette to match Among Us.
 - Custom neofetch logo.
