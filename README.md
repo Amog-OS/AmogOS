@@ -40,6 +40,7 @@ as youtuber TechHut put it). Why spend so much effort on a meme OS? Well, mainst
 
 ## Installation Notes
 - **We are not resposible for ANY KIND OF DATA LOSS or any kind of problem not relating to ඞAMOGOSඞ, USE THIS AT YOUR OWN RISK**
+- **x64 version is experimental builds , support will not be provided for it. **
 
 - For x64 users: It takes like a whole 69420 secs to load the UI from usb boot so be patient!
 
