@@ -1,5 +1,5 @@
 # AmogOS
-An parody OS inspired by Among Us ඞ. (pronounced A-mog-O-S)
+A parody OS inspired by Among Us ඞ. (pronounced A-mog-O-S)
 
 <img src="https://i.postimg.cc/vmF8tTVH/120727498-ecfc5e00-c497-11eb-9f92-a1b99318fee1.png"/> <img src="https://i.postimg.cc/m2Ym9qXt/130533968-d797e83d-e643-4c62-9264-7d46c2b67b48.png"/>
 
@@ -67,16 +67,16 @@ https://amogos.myspreadshop.com/
 - Custom wallpapers and start menu icon that can be found in `~/Pictures/.amogOS/`. (or download them [here](https://github.com/Amog-OS/AmogOS-Wallpapers))
 - Grey color palette to match Among Us.
 - Custom neofetch logo.
-- [MCPI Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn) (It's recommended you use the included `gMCPIL` launcher to launch the game).
+- [MCPI Reborn](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn) (It's recommended you use the included "gMCPIL" launcher to launch the game).
 - Uses Openbox WM and LXDE, allowing you to switch to 2 desktop spaces with the scroll wheel, similar to macOS.
-- [among-sus](https://git.sr.ht/~martijnbraam/among-sus), an open-source among us alternative playable in terminal (use `among-sus-server` to host a localhost server and `among-sus` to connect to a server hosted on the current device, or `nc <ip on your LAN network>` to join a game on your network).
+- [among-sus](https://git.sr.ht/~martijnbraam/among-sus), an open-source among us alternative playable in terminal (use "among-sus-server" to host a localhost server and `among-sus` to connect to a server hosted on the current device, or `nc <ip on your LAN network>` to join a game on your network).
 - [DollarSkip](https://github.com/CleanMachine1/DollarSkip), a simple C app to ignore `$` signs inputted at the start of a command, for copying commands from online tutorials.
 - ncdu and tldr.
 - Pi-Apps x86 for the x64 build.
 - -69% compliance with the [ඞSUSඞ](https://en.m.wikipedia.org/wiki/Single_UNIX_Specification) specification.
 
 ### RPI only features, not present on x86_64 build
-- 64-bit kernel enabled by default for speed, as well as to enable Wine support on RPI 3.
+- 64-bit kernel enabled by default for speed, as well as to enable Wine support on devices earlier than the Raspberry Pi 4.
 - Preinstalled CommanderPi, piwiz, Box86, Pi Power Tools, pi-apps, Colour Emoji Font, Stacer, legendary launcher (to replace Epic Games Launcher), and a 64-bit container to run aarch64 apps.
 - Wine + box86 preinstalled for x86 windows syscall translation.
 - piKiss and Pi-Apps preinstalled so you can install some games and also A M O N G U S.
@@ -85,8 +85,8 @@ https://amogos.myspreadshop.com/
 
 ## Notes
 - (RPI version only) You can use [vdesktop](https://github.com/Botspot/vdesktop) to test out the OS in a container without any lag and flashing needed on an ARM host.
-- (RPI version only) Default username is "pi" and password is "raspberry".
-- (x86 version only) Default username is "amogos" and password is "amogos".
+- (RPI version only) Default username is "pi" and the password is "raspberry".
+- (x86 version only) Default username is "amogos" and the password is "amogos".
 - **ඞAmogOSඞ is not a custom OS, it's just riced RPi OS/Debian Bullseye for RPI and x64 versions respectively. It doesn't have any custom written source code. You can mount the squashfs .sb file and look at the rootfs yourself**
 
 ## Credits
@@ -103,13 +103,13 @@ https://amogos.myspreadshop.com/
 ### Software credits
 ඞAmogOSඞ would not be possible without the following open source software:
 
-- Debian Bullseye, AntiX Project and RPI OS.
+- Debian Bullseye, AntiX Project and Raspberry Pi OS.
 - Openbox WM  
 - LXDE for DE  
 - xcompmgr for effects  
-- Lightpad for the macOS launchpad clone
-- xfce4-panel for dock and the panel
-- Whisker for start menu
+- Lightpad for the macOS launchpad clone'
+- xfce4-panel for the dock and the panel
+- Whisker for the start menu
 - Arc-Grey-Darker theme
 - Papirus icon theme
 - https://github.com/sueperb/tasty-grubs for the x64 GRUB theme  
@@ -119,7 +119,7 @@ https://amogos.myspreadshop.com/
 And to **Innersloth**, for making one of the most famous and memed games of 2020 and onwards.  
 
 ### Donation
-Donate to our OpenCollective, all funds spending is transparent so you know what we do with your generous donations! We also support crypto https://opencollective.com/amogos (we are 2 broke high schoolers pls donate or you will become ඞsusඞ).
+Donate to our OpenCollective, all of the funds' spending is transparent so you know what we do with your generous donations! We also support crypto https://opencollective.com/amogos (we are 2 broke high schoolers pls donate or you will become ඞsusඞ).
 
 Alternative donation methods:
 - Crypto : (For crypto donations please use OpenCollective!)
