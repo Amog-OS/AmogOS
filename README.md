@@ -77,10 +77,10 @@ https://amogos.myspreadshop.com/
 
 ### RPI only features, not present on x86_64 build
 - 64-bit kernel enabled by default for speed, as well as to enable Wine support on devices earlier than the Raspberry Pi 4.
-- Preinstalled CommanderPi, piwiz, Box86, Pi Power Tools, pi-apps, Colour Emoji Font, Stacer, legendary launcher (to replace Epic Games Launcher), and a 64-bit container to run aarch64 apps.
-- Wine + box86 preinstalled for x86 windows syscall translation.
+- Preinstalled CommanderPi, Pi Power Tools, pi-apps, Colour Emoji Font, and Stacer
+- Wine + Box86 preinstalled for x86 windows syscall translation.
 - piKiss and Pi-Apps preinstalled so you can install some games and also A M O N G U S.
-(Among Us will run at ~5 fps on multiplayer play. It runs rather poorly, but for a game never intended to run on a CPU the size of a thumb with 2 layers of syscall translation (x86 windows -> x86 linux -> arm linux), it's decent. A small resolution is needed for the game to run without poor framerates).
+(Among Us will run at ~5 fps on multiplayer play. It runs rather poorly, but for a game never intended to run on a CPU the size of a fingertip with 2 layers of syscall translation (x86 windows -> x86 linux -> arm linux), it's decent. A small resolution is needed for the game to run without poor framerates).
 - You can overclock your RPI with Commander Pi to get slightly more performance.
 
 ## Notes
@@ -103,7 +103,7 @@ https://amogos.myspreadshop.com/
 ### Software credits
 ඞAmogOSඞ would not be possible without the following open source software:
 
-- Debian Bullseye, AntiX Project and Raspberry Pi OS.
+- Debian Bullseye, AntiX Project, and Raspberry Pi OS.
 - Openbox WM  
 - LXDE for DE  
 - xcompmgr for effects  
@@ -119,7 +119,4 @@ https://amogos.myspreadshop.com/
 And to **Innersloth**, for making one of the most famous and memed games of 2020 and onwards.  
 
 ### Donation
-Donate to our OpenCollective, all of the funds' spending is transparent so you know what we do with your generous donations! We also support crypto https://opencollective.com/amogos (we are 2 broke high schoolers pls donate or you will become ඞsusඞ).
-
-Alternative donation methods:
-- Crypto : (For crypto donations please use OpenCollective!)
+Donate to our OpenCollective, all of the funds' spending is transparent so you know exactly what we do with your generous donations! We also support crypto https://opencollective.com/amogos (we are literally 2 broke high schoolers pls donate or you will become ඞsusඞ).
