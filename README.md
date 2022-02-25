@@ -34,19 +34,16 @@ as youtuber TechHut put it). Why spend so much effort on a meme OS? Well, mainst
   
 - `I'm pretty sure ඞAmogOSඞ has broken Mutahar's mental state and now he only says "ඞsussy wussyඞ" in like a really weird voice` -[Raspberry Pi News (developer)](https://www.youtube.com/watch?v=jiQVuhNiTZ0)
   
-- `very sussy os` -[Moon 1789 (founder)](https://www.youtube.com/watch?v=hkzYIwMYds8)
-  
 - `chad ඞAmogOSඞ vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
-## Installation Notes
+## Notes
 - **We are not resposible for ANY KIND OF DATA LOSS or any kind of problem not relating to ඞAMOGOSඞ, USE THIS AT YOUR OWN RISK**
-- **x64 version is experimental builds , support will not be provided for it. **
-
+- **x64 version is experimental builds , support will not be provided for it.**
+- **AmogOS was never intended to be a replacement for mainstream distributions; it's merely a joke and a sussy OS.**
 - For x64 users: It takes like a whole 69420 secs to load the UI from usb boot so be patient!
 
 ## Install
 - **Grab install instructions and the download links here on our website: https://www.amogos.studio/install.html.**
-
 - (please note that by downloading ඞAmogOSඞ, you have a severely increased chance of being infected with the sussy ඞamogusඞ and AMOGID-69 virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
 
 ## Testing ඞAmogOSඞ
@@ -119,4 +116,4 @@ https://amogos.myspreadshop.com/
 And to **Innersloth**, for making one of the most famous and memed games of 2020 and onwards.  
 
 ### Donation
-Donate to our OpenCollective, all of the funds' spending is transparent so you know exactly what we do with your generous donations! We also support crypto https://opencollective.com/amogos (we are literally 2 broke high schoolers pls donate or you will become ඞsusඞ).
+Feel free to donate to our OpenCollective, all of the funds' spending is transparent so you know exactly what we do with your generous donations! (We also support crypto if you sit upon a throne of NFT monkes) https://opencollective.com/amogos (we are literally 2 broke high schoolers pls donate or you will become ඞsusඞ).
