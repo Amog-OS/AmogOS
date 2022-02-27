@@ -1,6 +1,6 @@
 ---
 name: x64 Build bug report
-about: Create a report to help us improve the x64 build
+about: Create a report to help us improve the x64 PC build
 title: "[x64 bug]"
 labels: bug
 assignees: ''
