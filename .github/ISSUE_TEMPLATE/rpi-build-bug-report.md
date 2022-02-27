@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - RPi Model [e.g. RPi 4 2gb]
+ - RPi Model [e.g. RPi 4 2GB]
  - Version [e.g. 22]
 
 **Additional context**
