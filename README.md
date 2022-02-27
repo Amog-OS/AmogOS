@@ -37,7 +37,7 @@ as youtuber TechHut put it). Why spend so much effort on a meme OS? Well, mainst
 - `chad ඞAmogOSඞ vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
 ## Notes
-- **We are not resposible for ANY KIND OF DATA LOSS or any kind of problem not relating to ඞAMOGOSඞ, USE THIS AT YOUR OWN RISK.**
+- **We are not responsible for ANY KIND OF DATA LOSS or any kind of problem not relating to ඞAMOGOSඞ, USE THIS AT YOUR OWN RISK.**
 - **x64 version is experimental builds, support will not be provided for it.**
 - **AmogOS was never intended to be a replacement for mainstream distributions; it's merely a joke and a sussy OS.**
 - For x64 users: It takes like a whole 69420 secs to load the UI from usb boot so be patient!
