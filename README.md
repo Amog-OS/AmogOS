@@ -87,7 +87,7 @@ https://amogos.myspreadshop.com/.
 - **ඞAmogOSඞ is not a custom OS, it's just riced RPi OS/Debian Bullseye for RPI and x64 versions respectively. It doesn't have any custom written source code. You can mount the squashfs .sb file and look at the rootfs yourself**
 
 ## Credits
-- [Moon1789#5876](https://moon1789.github.io/), the UI lead, founder and man in the shadows. (inactive for now) 
+- [Moon1789#5876](https://moon1789.github.io/), the UI lead, founder and man in the shadows. (Inactive for now).
 - [Nooz#0816](https://www.youtube.com/channel/UCmp6JswV90SV5agNFGQuWkw), the main developer and active maintainer.
 - [peekatchoo#0001](https://www.reddit.com/u/_peekatchoo_), the graphical designer who made this possible in the first place. (no longer helping us, but absolute chad)
 - ! !-Linkley steals your kinky#4642, for seeding the initial torrents.
