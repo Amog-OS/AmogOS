@@ -21,7 +21,7 @@ This project was initially started as a joke in May 2021. Since then, it's been 
 - `I found my new main OS` -[MattKC](https://www.youtube.com/watch?v=saScDeK_U9o)
 
 ## Install
-**Grab install instructions and the download links here on our website: https://www.amogos.studio/install.html.**
+**Grab install instructions and the download links here on our website: https://amog-os.github.io/install.html.**
 - (please note that by downloading AmogOS, you have an increased chance of being infected with the sussy amogus and AMOGID-69 virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
 ### Notes
 - **We are not responsible for ANY KIND OF DATA LOSS or any kind of problem not relating to AmogOS, USE THIS AT YOUR OWN RISK.**
@@ -32,7 +32,7 @@ This project was initially started as a joke in May 2021. Since then, it's been 
 - You can test out AmogOS online without downloading it on DistroTest: https://distrotest.net/AmogOS/. (The OS will seem slow because of network latency, it runs very sus when installed).
 
 ## Website
-- Our only official website is https://www.amogos.studio, designed by **our** web developer Fengzi (he's too sus to keep his full name here).
+- Our only official website is https://amog-os.github.io/, designed by **our** web developer Fengzi (he's too sus to keep his full name here).
 
 ## Merch
 - Now stocking very sus stickers, shirts and other sussy stuff. All proceeds will be used to feed our developers and hire artists: https://amogos.myspreadshop.com/.
