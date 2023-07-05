@@ -7,9 +7,6 @@ A parody OS inspired by Among Us ඞ. (pronounced A-mog-O-S)
 
 This was mostly inspired by [this reddit post](https://www.reddit.com/r/linuxmint/comments/n9h7b4/amogos_custom_background_mint_x_grey_theme/). AmogOS is a meme OS based on the hit game Among Us, in the same vein as Hannah Montana Linux, but it's also developed and made to be a lightweight operating system. AmogOS is also less bloated than some other distros (*cough cough* Ubuntu). `Chad AmogOS vs bloated mainstream distro`, as youtuber TechHut put it. Don't take this too seriously :p
 
-# ⚠️ The AmogOS Project has been shut down ⚠️
-This project was initially started as a joke in May 2021. Since then, it's been a incredible journey, meeting so many people and getting recognized by prominent individuals in the Linux space. Everything comes to an end, and as both Among Us and AmogOS have progressed far past their height, it's time we started looking forward. Who knows, maybe someday someone will be inspired by AmogOS to make a "SaulGoodmanOS" or a "FallGuys Distro". Either way, everyone who's been along for this journey will be there to have a laugh or two. The OS will still be available for download, for those in the future that discover it. The discord is also still suprisingly active, so hop in if you need support or want to chat.
-
 - Nooz, Lead Dev
 
 ## Testimonies
