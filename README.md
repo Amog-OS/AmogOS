@@ -25,9 +25,6 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/linuxmin
 - **AmogOS was never intended to be a replacement for mainstream distributions; it's merely a joke and a sussy OS.**
 - For x64 users: It takes like a whole 69420 secs to load the UI from usb boot so be patient!
 
-## Testing ඞmogOS
-- You can test out AmogOS online without downloading it on DistroTest: https://distrotest.net/AmogOS/. (The OS will seem slow because of network latency, it runs very sus when installed).
-
 ## Website
 - Our only official website is https://amog-os.github.io/, designed by **our** web developer Fengzi (he's too sus to keep his full name here).
 
@@ -39,13 +36,12 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/linuxmin
 
 ## Features
 - Incredibly sussy
-- Custom wallpapers and start menu icon that can be found in `~/Pictures/.amogOS/`. (or download them [here](https://github.com/Amog-OS/AmogOS-Wallpapers))
+- Custom wallpapers and start menu icon that can be found in `~/Pictures/.AmogOS/`. (or download them [here](https://github.com/Amog-OS/AmogOS-Wallpapers))
 - Grey color palette to match Among Us tablet 😳
 - Custom neofetch logo
-- [FOSS Minecraft](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn/minecraft-pi-reborn) (It's recommended you use the included "gMCPIL" launcher to launch the game)
+- [FOSS Minecraft](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn/minecraft-pi-reborn)
 - Uses Openbox WM and LXDE, allowing you to switch to 2 desktop spaces with the scroll wheel, similar to macOS
 - [among-sus](https://git.sr.ht/~martijnbraam/among-sus), an open-source among us alternative playable in terminal (use "among-sus-server" to host a localhost server and `among-sus` to connect to a server hosted on the current device, or `nc <ip on your LAN network>` to join a game on your network)
-- Pi-Apps x86 for the x64 build
 - -69% compliance with the [SUS](https://en.m.wikipedia.org/wiki/Single_UNIX_Specification) specification
 
 ### RPI only features, not present on x86_64 build
@@ -62,10 +58,10 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/linuxmin
 
 ## Credits
 - [Moon1789#5876](https://moon1789.github.io/), Founder, co-creator, UI lead and man in the shadows.
-- [Nooz#0816](https://nooz.carrd.co/), Co-creator and main developer
+- [Nooz#0816](https://nooz.farted.net/), Co-creator and main developer
 - [peekatchoo#0001](https://www.reddit.com/u/_peekatchoo_), the graphical designer who made this possible in the first place. (no longer helping us, but absolute chad)
 - ! !-Linkley steals your kinky#4642, for seeding the initial torrents.
-- JoJo Autoboy#1931 for creating Jostro OS, where AmogOS was created.
+- JoJo Autoboy#1931 for creating Jostro OS, where AmogOS was hosted in its infancy.
 - 疯子鸭#5218 (Pronounced "Fengzi") for making the website.
 - [sUs !1!1!](https://media.discordapp.net/attachments/836822984110899261/929825908263620638/SPOILER_lol.jpg)
 
