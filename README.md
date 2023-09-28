@@ -17,6 +17,8 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/linuxmin
 
 - `I found my new main OS` -[MattKC](https://www.youtube.com/watch?v=saScDeK_U9o)
 
+- `sus beddar dan anyding else` -[Debarka](https://github.com/debarkak)
+
 ## Install
 **Grab install instructions and the download links here on our website: https://amog-os.github.io/install.html.**
 - (please note that by downloading AmogOS, you have an increased chance of being infected with the sussy amogus and AMOGID-69 virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
