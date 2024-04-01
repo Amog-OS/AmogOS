@@ -16,7 +16,8 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/linuxmin
 - `Chad AmogOS vs bloated mainstream distro` -[TechHut](https://www.youtube.com/watch?v=ymYIJYb2hYI)  
 
 - `I found my new main OS` -[MattKC](https://www.youtube.com/watch?v=saScDeK_U9o)
-
+- `Sussy Little Baka`[GuestSneezePlayz](https://youtube.com/guestsneezeplayz) (Video Coming Soon)
+- `Gaming Sus`[Bringus Studios](https://www.youtube.com/watch?v=qp-I1hm5UVU)
 ## Install
 **Grab install instructions and the download links here on our website: https://amog-os.github.io/install.html.**
 - (please note that by downloading AmogOS, you have an increased chance of being infected with the sussy amogus and AMOGID-69 virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
@@ -85,3 +86,14 @@ And to **Innersloth**, for making the best game in the world.
 
 ### Donation
 Feel free to donate to our OpenCollective, all proceeds will be used to help pay developers and theme artists. https://opencollective.com/amogos (we are literally 2 broke teenagers slaving away at this pls donate or you will become ඞsusඞ)
+
+# System Requirements
+- 8-10 GB Of Unallocated Space
+- 1-2 GB Of DEDOTADED WAMMMMMM
+- 800 MHZ CPU
+- Single Core CPU
+REMEMBER BE SUSSY AND BECOME A [CONTRIBUTOR](https://github.com/Amog-OS/AmogOS/graphs/contributors)
+<br>
+Honarable Mentions
+<br>
+GYAT,SIGMA,FANUMTAX,LEVEL 10 Sigma Baby Gronk Skibidi Camera TV Man with The HAM SAUCE And KAI CENUTTTTT And RIZZLER (And The Other Brainrot)
