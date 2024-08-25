@@ -1,15 +1,13 @@
 # x64 Getting started
-Every release contains a iso and a zip (.tar.gz in releases >= 1.4.2). First, find the newest release at the top of https://github.com/jostroOS/AmogOS/releases.
+For installation, you can choose the fast method via iso, or use the zip for manual installation if the fast method won't work or you are using a Linux system.
 
-For installation, you can choose the fast method via iso, or use the zip for manual installation if the fast method won't work or you are using a Linux system and can't run Universal USB Installer's exe file.
-
-## ISO live USB installation: (for anything before 1.5.0)
+~~## ISO live USB installation: (for anything before 1.5.0)
 Download Universal USB Installer from pendrivelinux: https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/. 
 DO NOT use rufus or anything else because they aren't tested or guaranteed to work. 
-Find "AmogOS" at the top of the "Other Distros" section in Universal USB Installer, choose your spare USB stick (recommended size is > 2GB), download & choose the .iso file in the buttom of the release and click Create.
+Find "AmogOS" at the top of the "Other Distros" section in Universal USB Installer, choose your spare USB stick (recommended size is > 2GB), download & choose the .iso file in the buttom of the release and click Create.~~
 
-### 1.5.0 Placeholder guide
-Use rufus.
+### 1.5.0 Guide
+Install with Rufus.
 
 ### Manual live USB installation:
 Download & extract the .zip/.tar.gz and follow the instructions in the "Manual-Install-README.txt" file inside it to install the OS onto a spare USB stick.
