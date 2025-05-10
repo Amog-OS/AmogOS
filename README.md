@@ -19,11 +19,11 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/linuxmin
 
 ## Install
 **Grab install instructions and the download links here on our website: https://amog-os.github.io/install.html.**
-- (please note that by downloading AmogOS, you have an increased chance of being infected with the sussy amogus and AMOGID-69 virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
+- (Please note that by downloading AmogOS, you have an increased chance of being infected with the sussy amogus and AMOGID-69 virus. Please refer to [here](https://www.youtube.com/watch?v=nFstpT_YTro) for treatment methods).
 ### Notes
 - **We are not responsible for ANY KIND OF DATA LOSS or any kind of problem not relating to AmogOS, USE THIS AT YOUR OWN RISK.**
 - **AmogOS was never intended to be a replacement for mainstream distributions; it's merely a joke and a sussy OS.**
-- For x64 users: It takes like a whole 69420 secs to load the UI from usb boot so be patient!
+- For x64 users: It takes like a whole 69,420 seconds to load the UI from USB boot, so be patient!
 
 ## Website
 - Our only official website is https://amog-os.github.io/, designed by **our** web developer Fengzi (he's too sus to keep his full name here).
@@ -66,8 +66,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/linuxmin
 - [sUs !1!1!](https://media.discordapp.net/attachments/836822984110899261/929825908263620638/SPOILER_lol.jpg)
 
 ### Software credits
-ඞAmogOSඞ would not be possible without the following open source software:
-
+ඞAmogOSඞ would not be possible without the following open-source software:
 - Debian Bullseye, AntiX Project, and Raspberry Pi OS
 - Openbox WM  
 - LXDE for DE  
