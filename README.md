@@ -63,7 +63,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/linuxmin
 - ! !-Linkley steals your kinky#4642, for seeding the initial torrents.
 - JoJo Autoboy#1931 for creating Jostro OS, where AmogOS was hosted in its infancy.
 - 疯子鸭#5218 (Pronounced "Fengzi") for making the website.
-- [sUs !1!1!](https://media.discordapp.net/attachments/836822984110899261/929825908263620638/SPOILER_lol.jpg)
+- [sUs !1!1!](https://web.archive.org/web/20230518023122if_/https://media.discordapp.net/attachments/836822984110899261/929825908263620638/SPOILER_lol.jpg)
 
 ### Software credits
 ඞAmogOSඞ would not be possible without the following open source software:
