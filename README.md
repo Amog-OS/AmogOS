@@ -39,7 +39,7 @@ This was mostly inspired by [this reddit post](https://www.reddit.com/r/linuxmin
 - Custom wallpapers and start menu icon that can be found in `~/Pictures/.AmogOS/`. (or download them [here](https://github.com/Amog-OS/AmogOS-Wallpapers))
 - Grey color palette to match Among Us tablet 😳
 - Custom neofetch logo
-- [FOSS Minecraft](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-reborn/minecraft-pi-reborn)
+- [FOSS Minecraft](https://gitea.thebrokenrail.com/minecraft-pi-reborn/minecraft-pi-reborn)
 - Uses Openbox WM and LXDE, allowing you to switch to 2 desktop spaces with the scroll wheel, similar to macOS
 - [among-sus](https://git.sr.ht/~martijnbraam/among-sus), an open-source among us alternative playable in terminal (use "among-sus-server" to host a localhost server and `among-sus` to connect to a server hosted on the current device, or `nc <ip on your LAN network>` to join a game on your network)
 - -69% compliance with the [SUS](https://en.m.wikipedia.org/wiki/Single_UNIX_Specification) specification
